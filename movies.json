@@ -1,124 +1,238 @@
-{ "create": { "_index": "movies", "_id": "818" } }
-{ "id": "818", "title": "Magnolia", "year": 1999, "genre": [ "Drama" ] }
-{ "create": { "_index": "movies", "_id": "829" } }
-{ "id": "829", "title": "Reservoir Dogs", "year": 1992, "genre": [ "Crime", "Thriller" ] }
-{ "create": { "_index": "movies", "_id": "838" } }
-{ "id": "838", "title": "Trainspotting", "year": 1996, "genre": [ "Crime", "Drama" ] }
-{ "create": { "_index": "movies", "_id": "862" } }
-{ "id": "862", "title": "Casino", "year": 1995, "genre": [ "Crime", "Drama" ] }
-{ "create": { "_index": "movies", "_id": "883" } }
-{ "id": "883", "title": "The Graduate", "year": 1967, "genre": [ "Comedy", "Drama", "Romance" ] }
-{ "create": { "_index": "movies", "_id": "908" } }
-{ "id": "908", "title": "Vertigo", "year": 1958, "genre": [ "Mystery", "Romance", "Thriller" ] }
-{ "create": { "_index": "movies", "_id": "914" } }
-{ "id": "914", "title": "The Usual Suspects", "year": 1995, "genre": [ "Crime", "Mystery", "Thriller" ] }
-{ "create": { "_index": "movies", "_id": "919" } }
-{ "id": "919", "title": "The Wizard of Oz", "year": 1939, "genre": [ "Adventure", "Family", "Fantasy", "Musical" ] }
-{ "create": { "_index": "movies", "_id": "923" } }
-{ "id": "923", "title": "Singin' in the Rain", "year": 1952, "genre": [ "Comedy", "Musical", "Romance" ] }
-{ "create": { "_index": "movies", "_id": "926" } }
-{ "id": "926", "title": "All About Eve", "year": 1950, "genre": [ "Drama" ] }
-{ "create": { "_index": "movies", "_id": "928" } }
-{ "id": "928", "title": "The Apartment", "year": 1960, "genre": [ "Comedy", "Drama", "Romance" ] }
-{ "create": { "_index": "movies", "_id": "929" } }
-{ "id": "929", "title": "Sunset Blvd.", "year": 1950, "genre": [ "Drama", "Film-Noir" ] }
-{ "create": { "_index": "movies", "_id": "930" } }
-{ "id": "930", "title": "Notorious", "year": 1946, "genre": [ "Film-Noir", "Mystery", "Romance", "Thriller" ] }
-{ "create": { "_index": "movies", "_id": "932" } }
-{ "id": "932", "title": "Citizen Kane", "year": 1941, "genre": [ "Drama", "Mystery" ] }
-{ "create": { "_index": "movies", "_id": "933" } }
-{ "id": "933", "title": "The Third Man", "year": 1949, "genre": [ "Film-Noir", "Mystery", "Thriller" ] }
-{ "create": { "_index": "movies", "_id": "935" } }
-{ "id": "935", "title": "Laura", "year": 1944, "genre": [ "Film-Noir", "Mystery", "Thriller" ] }
-{ "create": { "_index": "movies", "_id": "938" } }
-{ "id": "938", "title": "Psycho", "year": 1960, "genre": [ "Horror", "Mystery", "Thriller" ] }
-{ "create": { "_index": "movies", "_id": "939" } }
-{ "id": "939", "title": "Rear Window", "year": 1954, "genre": [ "Mystery", "Thriller" ] }
-{ "create": { "_index": "movies", "_id": "940" } }
-{ "id": "940", "title": "The Maltese Falcon", "year": 1941, "genre": [ "Film-Noir", "Mystery" ] }
-{ "create": { "_index": "movies", "_id": "949" } }
-{ "id": "949", "title": "Double Indemnity", "year": 1944, "genre": [ "Crime", "Drama", "Film-Noir", "Thriller" ] }
-{ "create": { "_index": "movies", "_id": "953" } }
-{ "id": "953", "title": "L.A. Confidential", "year": 1997, "genre": [ "Crime", "Drama", "Mystery", "Thriller" ] }
-{ "create": { "_index": "movies", "_id": "954" } }
-{ "id": "954", "title": "Bicycle Thieves", "year": 1948, "genre": [ "Drama" ] }
-{ "create": { "_index": "movies", "_id": "956" } }
-{ "id": "956", "title": "M", "year": 1931, "genre": [ "Crime", "Thriller" ] }
-{ "create": { "_index": "movies", "_id": "957" } }
-{ "id": "957", "title": "The Godfather: Part II", "year": 1974, "genre": [ "Crime", "Drama" ] }
-{ "create": { "_index": "movies", "_id": "959" } }
-{ "id": "959", "title": "The Shining", "year": 1980, "genre": [ "Horror", "Mystery", "Thriller" ] }
-{ "create": { "_index": "movies", "_id": "969" } }
-{ "id": "969", "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb", "year": 1964, "genre": [ "Comedy", "War" ] }
-{ "create": { "_index": "movies", "_id": "979" } }
-{ "id": "979", "title": "The General", "year": 1926, "genre": [ "Action", "Adventure", "Comedy", "War" ] }
-{ "create": { "_index": "movies", "_id": "980" } }
-{ "id": "980", "title": "Life Is Beautiful", "year": 1997, "genre": [ "Comedy", "Drama", "War" ] }
-{ "create": { "_index": "movies", "_id": "991" } }
-{ "id": "991", "title": "Monty Python and the Holy Grail", "year": 1975, "genre": [ "Adventure", "Comedy", "Fantasy" ] }
-{ "create": { "_index": "movies", "_id": "1028" } }
-{ "id": "1028", "title": "Duck Soup", "year": 1933, "genre": [ "Comedy", "War" ] }
-{ "create": { "_index": "movies", "_id": "1029" } }
-{ "id": "1029", "title": "The Gold Rush", "year": 1925, "genre": [ "Adventure", "Comedy", "Drama" ] }
-{ "create": { "_index": "movies", "_id": "1036" } }
-{ "id": "1036", "title": "Singin' in the Rain", "year": 1952, "genre": [ "Comedy", "Musical", "Romance" ] }
-{ "create": { "_index": "movies", "_id": "1081" } }
-{ "id": "1081", "title": "The Battle of Algiers", "year": 1966, "genre": [ "Drama", "War" ] }
-{ "create": { "_index": "movies", "_id": "1090" } }
-{ "id": "1090", "title": "Ran", "year": 1985, "genre": [ "Action", "Drama", "War" ] }
-{ "create": { "_index": "movies", "_id": "1104" } }
-{ "id": "1104", "title": "The Treasure of the Sierra Madre", "year": 1948, "genre": [ "Adventure", "Drama", "Western" ] }
-{ "create": { "_index": "movies", "_id": "1113" } }
-{ "id": "1113", "title": "The Conformist", "year": 1970, "genre": [ "Drama" ] }
-{ "create": { "_index": "movies", "_id": "1121" } }
-{ "id": "1121", "title": "Stalker", "year": 1979, "genre": [ "Drama", "Sci-Fi" ] }
-{ "create": { "_index": "movies", "_id": "1136" } }
-{ "id": "1136", "title": "The Good, the Bad and the Ugly", "year": 1966, "genre": [ "Western" ] }
-{ "create": { "_index": "movies", "_id": "1148" } }
-{ "id": "1148", "title": "Seven Samurai", "year": 1954, "genre": [ "Action", "Adventure", "Drama" ] }
-{ "create": { "_index": "movies", "_id": "1160" } }
-{ "id": "1160", "title": "Once Upon a Time in the West", "year": 1968, "genre": [ "Western" ] }
-{ "create": { "_index": "movies", "_id": "1172" } }
-{ "id": "1172", "title": "Cinema Paradiso", "year": 1988, "genre": [ "Drama", "Romance" ] }
-{ "create": { "_index": "movies", "_id": "1178" } }
-{ "id": "1178", "title": "Paths of Glory", "year": 1957, "genre": [ "Drama", "War" ] }
-{ "create": { "_index": "movies", "_id": "1193" } }
-{ "id": "1193", "title": "The General", "year": 1926, "genre": [ "Action", "Adventure", "Comedy", "War" ] }
-{ "create": { "_index": "movies", "_id": "1196" } }
-{ "id": "1196", "title": "The Godfather: Part II", "year": 1974, "genre": [ "Crime", "Drama" ] }
-{ "create": { "_index": "movies", "_id": "1197" } }
-{ "id": "1197", "title": "The Godfather", "year": 1972, "genre": [ "Crime", "Drama" ] }
-{ "create": { "_index": "movies", "_id": "1199" } }
-{ "id": "1199", "title": "Pink Floyd - The Wall", "year": 1982, "genre": [ "Drama", "Music" ] }
-{ "create": { "_index": "movies", "_id": "1201" } }
-{ "id": "1201", "title": "The Great Escape", "year": 1963, "genre": [ "Adventure", "Drama", "History", "Thriller", "War" ] }
-{ "create": { "_index": "movies", "_id": "1203" } }
-{ "id": "1203", "title": "The Shawshank Redemption", "year": 1994, "genre": [ "Crime", "Drama" ] }
-{ "create": { "_index": "movies", "_id": "1204" } }
-{ "id": "1204", "title": "Lawrence of Arabia", "year": 1962, "genre": [ "Adventure", "Drama", "History", "War" ] }
-{ "create": { "_index": "movies", "_id": "1206" } }
-{ "id": "1206", "title": "The Lives of Others", "year": 2006, "genre": [ "Drama", "Thriller" ] }
-{ "create": { "_index": "movies", "_id": "1207" } }
-{ "id": "1207", "title": "To Kill a Mockingbird", "year": 1962, "genre": [ "Crime", "Drama" ] }
-{ "create": { "_index": "movies", "_id": "1208" } }
-{ "id": "1208", "title": "Apocalypse Now", "year": 1979, "genre": [ "Drama", "War" ] }
-{ "create": { "_index": "movies", "_id": "1210" } }
-{ "id": "1210", "title": "Star Wars: Episode VI - Return of the Jedi", "year": 1983, "genre": [ "Action", "Adventure", "Fantasy", "Sci-Fi" ] }
-{ "create": { "_index": "movies", "_id": "1213" } }
-{ "id": "1213", "title": "GoodFellas", "year": 1990, "genre": [ "Biography", "Crime", "Drama" ] }
-{ "create": { "_index": "movies", "_id": "1214" } }
-{ "id": "1214", "title": "Alien", "year": 1979, "genre": [ "Horror", "Sci-Fi", "Thriller" ] }
-{ "create": { "_index": "movies", "_id": "1217" } }
-{ "id": "1217", "title": "The Shining", "year": 1980, "genre": [ "Horror", "Mystery", "Thriller" ] }
-{ "create": { "_index": "movies", "_id": "1218" } }
-{ "id": "1218", "title": "Taxi Driver", "year": 1976, "genre": [ "Crime", "Drama", "Thriller" ] }
-{ "create": { "_index": "movies", "_id": "1219" } }
-{ "id": "1219", "title": "The Bridge on the River Kwai", "year": 1957, "genre": [ "Adventure", "Drama", "War" ] }
-{ "create": { "_index": "movies", "_id": "1220" } }
-{ "id": "1220", "title": "The Dark Knight", "year": 2008, "genre": [ "Action", "Crime", "Drama", "Thriller", "IMAX" ] }
-{ "create": { "_index": "movies", "_id": "1221" } }
-{ "id": "1221", "title": "Eternal Sunshine of the Spotless Mind", "year": 2004, "genre": [ "Drama", "Romance", "Sci-Fi" ] }
-{ "create": { "_index": "movies", "_id": "1222" } }
-{ "id": "1222", "title": "Memento", "year": 2000, "genre": [ "Mystery", "Thriller" ] }
-{ "create": { "_index": "movies", "_id": "1223" } }
-{ "id": "1223", "title": "Amelie", "year": 2001, "genre": [ "Comedy", "Romance" ] }
+{ "create" : { "_index" : "movies", "_id" : "135569" } }
+{ "id": "135569", "title" : "Star Trek Beyond", "year":2016 , "genre":["Action", "Adventure", "Sci-Fi"] }
+{ "create" : { "_index" : "movies", "_id" : "122886" } }
+{ "id": "122886", "title" : "Star Wars: Episode VII - The Force Awakens", "year":2015 , "genre":["Action", "Adventure", "Fantasy", "Sci-Fi", "IMAX"] }
+{ "create" : { "_index" : "movies", "_id" : "109487" } }
+{ "id": "109487", "title" : "Interstellar", "year":2014 , "genre":["Sci-Fi", "IMAX"] }
+{ "create" : { "_index" : "movies", "_id" : "58559" } }
+{ "id": "58559", "title" : "Dark Knight, The", "year":2008 , "genre":["Action", "Crime", "Drama", "IMAX"] }
+{ "create" : { "_index" : "movies", "_id" : "1924" } }
+{ "id": "1924", "title" : "Plan 9 from Outer Space", "year":1959 , "genre":["Horror", "Sci-Fi"] }
+{ "create" : { "_index" : "movies", "_id" : "100001" } }
+{ "id": "100001", "title" : "Inception", "year":2010 , "genre":["Action", "Adventure", "Sci-Fi", "Thriller"] }
+{ "create" : { "_index" : "movies", "_id" : "100002" } }
+{ "id": "100002", "title" : "The Shawshank Redemption", "year":1994 , "genre":["Drama"] }
+{ "create" : { "_index" : "movies", "_id" : "100003" } }
+{ "id": "100003", "title" : "Pulp Fiction", "year":1994 , "genre":["Crime", "Drama"] }
+{ "create" : { "_index" : "movies", "_id" : "100004" } }
+{ "id": "100004", "title" : "The Godfather", "year":1972 , "genre":["Crime", "Drama"] }
+{ "create" : { "_index" : "movies", "_id" : "100005" } }
+{ "id": "100005", "title" : "Fight Club", "year":1999 , "genre":["Drama"] }
+{ "create" : { "_index" : "movies", "_id" : "100006" } }
+{ "id": "100006", "title" : "Forrest Gump", "year":1994 , "genre":["Drama", "Romance"] }
+{ "create" : { "_index" : "movies", "_id" : "100007" } }
+{ "id": "100007", "title" : "The Matrix", "year":1999 , "genre":["Action", "Sci-Fi"] }
+{ "create" : { "_index" : "movies", "_id" : "100008" } }
+{ "id": "100008", "title" : "Goodfellas", "year":1990 , "genre":["Crime", "Drama"] }
+{ "create" : { "_index" : "movies", "_id" : "100009" } }
+{ "id": "100009", "title" : "The Silence of the Lambs", "year":1991 , "genre":["Crime", "Thriller", "Horror"] }
+{ "create" : { "_index" : "movies", "_id" : "100010" } }
+{ "id": "100010", "title" : "Schindler's List", "year":1993 , "genre":["Drama", "History", "War"] }
+{ "create" : { "_index" : "movies", "_id" : "100011" } }
+{ "id": "100011", "title" : "The Lord of the Rings: The Fellowship of the Ring", "year":2001 , "genre":["Adventure", "Fantasy"] }
+{ "create" : { "_index" : "movies", "_id" : "100012" } }
+{ "id": "100012", "title" : "The Lord of the Rings: The Two Towers", "year":2002 , "genre":["Adventure", "Fantasy"] }
+{ "create" : { "_index" : "movies", "_id" : "100013" } }
+{ "id": "100013", "title" : "The Lord of the Rings: The Return of the King", "year":2003 , "genre":["Adventure", "Fantasy"] }
+{ "create" : { "_index" : "movies", "_id" : "100014" } }
+{ "id": "100014", "title" : "The Dark Knight Rises", "year":2012 , "genre":["Action", "Thriller"] }
+{ "create" : { "_index" : "movies", "_id" : "100015" } }
+{ "id": "100015", "title" : "The Avengers", "year":2012 , "genre":["Action", "Adventure", "Sci-Fi"] }
+{ "create" : { "_index" : "movies", "_id" : "100016" } }
+{ "id": "100016", "title" : "Avatar", "year":2009 , "genre":["Action", "Adventure", "Fantasy"] }
+{ "create" : { "_index" : "movies", "_id" : "100017" } }
+{ "id": "100017", "title" : "Titanic", "year":1997 , "genre":["Drama", "Romance"] }
+{ "create" : { "_index" : "movies", "_id" : "100018" } }
+{ "id": "100018", "title" : "Jurassic Park", "year":1993 , "genre":["Adventure", "Sci-Fi", "Thriller"] }
+{ "create" : { "_index" : "movies", "_id" : "100019" } }
+{ "id": "100019", "title" : "Gladiator", "year":2000 , "genre":["Action", "Drama"] }
+{ "create" : { "_index" : "movies", "_id" : "100020" } }
+{ "id": "100020", "title" : "Back to the Future", "year":1985 , "genre":["Adventure", "Comedy", "Sci-Fi"] }
+{ "create" : { "_index" : "movies", "_id" : "100021" } }
+{ "id": "100021", "title" : "The Lion King", "year":1994 , "genre":["Animation", "Adventure", "Drama"] }
+{ "create" : { "_index" : "movies", "_id" : "100022" } }
+{ "id": "100022", "title" : "Alien", "year":1979 , "genre":["Horror", "Sci-Fi"] }
+{ "create" : { "_index" : "movies", "_id" : "100023" } }
+{ "id": "100023", "title" : "The Shining", "year":1980 , "genre":["Horror"] }
+{ "create" : { "_index" : "movies", "_id" : "100024" } }
+{ "id": "100024", "title" : "E.T. the Extra-Terrestrial", "year":1982 , "genre":["Adventure", "Family", "Sci-Fi"] }
+{ "create" : { "_index" : "movies", "_id" : "100025" } }
+{ "id": "100025", "title" : "Blade Runner", "year":1982 , "genre":["Sci-Fi", "Thriller"] }
+{ "create" : { "_index" : "movies", "_id" : "100026" } }
+{ "id": "100026", "title" : "The Terminator", "year":1984 , "genre":["Action", "Sci-Fi"] }
+{ "create" : { "_index" : "movies", "_id" : "100027" } }
+{ "id": "100027", "title" : "Terminator 2: Judgment Day", "year":1991 , "genre":["Action", "Sci-Fi"] }
+{ "create" : { "_index" : "movies", "_id" : "100028" } }
+{ "id": "100028", "title" : "Indiana Jones: Raiders of the Lost Ark", "year":1981 , "genre":["Action", "Adventure"] }
+{ "create" : { "_index" : "movies", "_id" : "100029" } }
+{ "id": "100029", "title" : "Indiana Jones and the Last Crusade", "year":1989 , "genre":["Action", "Adventure"] }
+{ "create" : { "_index" : "movies", "_id" : "100030" } }
+{ "id": "100030", "title" : "The Exorcist", "year":1973 , "genre":["Horror"] }
+{ "create" : { "_index" : "movies", "_id" : "100031" } }
+{ "id": "100031", "title" : "Psycho", "year":1960 , "genre":["Horror", "Thriller"] }
+{ "create" : { "_index" : "movies", "_id" : "100032" } }
+{ "id": "100032", "title" : "Casablanca", "year":1942 , "genre":["Drama", "Romance", "War"] }
+{ "create" : { "_index" : "movies", "_id" : "100033" } }
+{ "id": "100033", "title" : "Gone with the Wind", "year":1939 , "genre":["Drama", "Romance", "War"] }
+{ "create" : { "_index" : "movies", "_id" : "100034" } }
+{ "id": "100034", "title" : "Citizen Kane", "year":1941 , "genre":["Drama"] }
+{ "create" : { "_index" : "movies", "_id" : "100035" } }
+{ "id": "100035", "title" : "The Wizard of Oz", "year":1939 , "genre":["Adventure", "Family", "Fantasy"] }
+{ "create" : { "_index" : "movies", "_id" : "100036" } }
+{ "id": "100036", "title" : "2001: A Space Odyssey", "year":1968 , "genre":["Sci-Fi"] }
+{ "create" : { "_index" : "movies", "_id" : "100037" } }
+{ "id": "100037", "title" : "A Clockwork Orange", "year":1971 , "genre":["Crime", "Sci-Fi"] }
+{ "create" : { "_index" : "movies", "_id" : "100038" } }
+{ "id": "100038", "title" : "Apocalypse Now", "year":1979 , "genre":["Drama", "War"] }
+{ "create" : { "_index" : "movies", "_id" : "100039" } }
+{ "id": "100039", "title" : "The Graduate", "year":1967 , "genre":["Comedy", "Drama"] }
+{ "create" : { "_index" : "movies", "_id" : "100040" } }
+{ "id": "100040", "title" : "One Flew Over the Cuckoo's Nest", "year":1975 , "genre":["Drama"] }
+{ "create" : { "_index" : "movies", "_id" : "100041" } }
+{ "id": "100041", "title" : "The Sound of Music", "year":1965 , "genre":["Musical", "Drama"] }
+{ "create" : { "_index" : "movies", "_id" : "100042" } }
+{ "id": "100042", "title" : "Rocky", "year":1976 , "genre":["Drama", "Sport"] }
+{ "create" : { "_index" : "movies", "_id" : "100043" } }
+{ "id": "100043", "title" : "Raging Bull", "year":1980 , "genre":["Drama", "Sport"] }
+{ "create" : { "_index" : "movies", "_id" : "100044" } }
+{ "id": "100044", "title" : "Taxi Driver", "year":1976 , "genre":["Crime", "Drama"] }
+{ "create" : { "_index" : "movies", "_id" : "100045" } }
+{ "id": "100045", "title" : "The Deer Hunter", "year":1978 , "genre":["Drama", "War"] }
+{ "create" : { "_index" : "movies", "_id" : "100046" } }
+{ "id": "100046", "title" : "Platoon", "year":1986 , "genre":["Drama", "War"] }
+{ "create" : { "_index" : "movies", "_id" : "100047" } }
+{ "id": "100047", "title" : "Full Metal Jacket", "year":1987 , "genre":["Drama", "War"] }
+{ "create" : { "_index" : "movies", "_id" : "100048" } }
+{ "id": "100048", "title" : "Saving Private Ryan", "year":1998 , "genre":["Drama", "War"] }
+{ "create" : { "_index" : "movies", "_id" : "100049" } }
+{ "id": "100049", "title" : "Braveheart", "year":1995 , "genre":["Drama", "War"] }
+{ "create" : { "_index" : "movies", "_id" : "100050" } }
+{ "id": "100050", "title" : "The Sixth Sense", "year":1999 , "genre":["Drama", "Thriller"] }
+{ "create" : { "_index" : "movies", "_id" : "100051" } }
+{ "id": "100051", "title" : "The Usual Suspects", "year":1995 , "genre":["Crime", "Thriller"] }
+{ "create" : { "_index" : "movies", "_id" : "100052" } }
+{ "id": "100052", "title" : "Se7en", "year":1995 , "genre":["Crime", "Thriller"] }
+{ "create" : { "_index" : "movies", "_id" : "100053" } }
+{ "id": "100053", "title" : "The Green Mile", "year":1999 , "genre":["Drama", "Fantasy"] }
+{ "create" : { "_index" : "movies", "_id" : "100054" } }
+{ "id": "100054", "title" : "American Beauty", "year":1999 , "genre":["Drama"] }
+{ "create" : { "_index" : "movies", "_id" : "100055" } }
+{ "id": "100055", "title" : "The Truman Show", "year":1998 , "genre":["Comedy", "Drama"] }
+{ "create" : { "_index" : "movies", "_id" : "100056" } }
+{ "id": "100056", "title" : "The Big Lebowski", "year":1998 , "genre":["Comedy", "Crime"] }
+{ "create" : { "_index" : "movies", "_id" : "100057" } }
+{ "id": "100057", "title" : "Fargo", "year":1996 , "genre":["Crime", "Thriller"] }
+{ "create" : { "_index" : "movies", "_id" : "100058" } }
+{ "id": "100058", "title" : "The Princess Bride", "year":1987 , "genre":["Adventure", "Comedy", "Fantasy"] }
+{ "create" : { "_index" : "movies", "_id" : "100059" } }
+{ "id": "100059", "title" : "Groundhog Day", "year":1993 , "genre":["Comedy", "Fantasy"] }
+{ "create" : { "_index" : "movies", "_id" : "100060" } }
+{ "id": "100060", "title" : "Ghostbusters", "year":1984 , "genre":["Comedy", "Fantasy"] }
+{ "create" : { "_index" : "movies", "_id" : "100061" } }
+{ "id": "100061", "title" : "Home Alone", "year":1990 , "genre":["Comedy", "Family"] }
+{ "create" : { "_index" : "movies", "_id" : "100062" } }
+{ "id": "100062", "title" : "Toy Story", "year":1995 , "genre":["Animation", "Adventure", "Comedy"] }
+{ "create" : { "_index" : "movies", "_id" : "100063" } }
+{ "id": "100063", "title" : "Finding Nemo", "year":2003 , "genre":["Animation", "Adventure", "Comedy"] }
+{ "create" : { "_index" : "movies", "_id" : "100064" } }
+{ "id": "100064", "title" : "Shrek", "year":2001 , "genre":["Animation", "Adventure", "Comedy"] }
+{ "create" : { "_index" : "movies", "_id" : "100065" } }
+{ "id": "100065", "title" : "Up", "year":2009 , "genre":["Animation", "Adventure", "Comedy"] }
+{ "create" : { "_index" : "movies", "_id" : "100066" } }
+{ "id": "100066", "title" : "Wall-E", "year":2008 , "genre":["Animation", "Adventure", "Sci-Fi"] }
+{ "create" : { "_index" : "movies", "_id" : "100067" } }
+{ "id": "100067", "title" : "Ratatouille", "year":2007 , "genre":["Animation", "Comedy"] }
+{ "create" : { "_index" : "movies", "_id" : "100068" } }
+{ "id": "100068", "title" : "The Incredibles", "year":2004 , "genre":["Animation", "Action", "Adventure"] }
+{ "create" : { "_index" : "movies", "_id" : "100069" } }
+{ "id": "100069", "title" : "Monsters, Inc.", "year":2001 , "genre":["Animation", "Adventure", "Comedy"] }
+{ "create" : { "_index" : "movies", "_id" : "100070" } }
+{ "id": "100070", "title" : "Coco", "year":2017 , "genre":["Animation", "Adventure", "Family"] }
+{ "create" : { "_index" : "movies", "_id" : "100071" } }
+{ "id": "100071", "title" : "Frozen", "year":2013 , "genre":["Animation", "Adventure", "Comedy"] }
+{ "create" : { "_index" : "movies", "_id" : "100072" } }
+{ "id": "100072", "title" : "Moana", "year":2016 , "genre":["Animation", "Adventure", "Comedy"] }
+{ "create" : { "_index" : "movies", "_id" : "100073" } }
+{ "id": "100073", "title" : "Zootopia", "year":2016 , "genre":["Animation", "Adventure", "Comedy"] }
+{ "create" : { "_index" : "movies", "_id" : "100074" } }
+{ "id": "100074", "title" : "Inside Out", "year":2015 , "genre":["Animation", "Adventure", "Comedy"] }
+{ "create" : { "_index" : "movies", "_id" : "100075" } }
+{ "id": "100075", "title" : "The Lego Movie", "year":2014 , "genre":["Animation", "Action", "Adventure"] }
+{ "create" : { "_index" : "movies", "_id" : "100076" } }
+{ "id": "100076", "title" : "Despicable Me", "year":2010 , "genre":["Animation", "Comedy"] }
+{ "create" : { "_index" : "movies", "_id" : "100077" } }
+{ "id": "100077", "title" : "Madagascar", "year":2005 , "genre":["Animation", "Adventure", "Comedy"] }
+{ "create" : { "_index" : "movies", "_id" : "100078" } }
+{ "id": "100078", "title" : "Kung Fu Panda", "year":2008 , "genre":["Animation", "Action", "Comedy"] }
+{ "create" : { "_index" : "movies", "_id" : "100079" } }
+{ "id": "100079", "title" : "How to Train Your Dragon", "year":2010 , "genre":["Animation", "Adventure", "Comedy"] }
+{ "create" : { "_index" : "movies", "_id" : "100080" } }
+{ "id": "100080", "title" : "Ice Age", "year":2002 , "genre":["Animation", "Adventure", "Comedy"] }
+{ "create" : { "_index" : "movies", "_id" : "100081" } }
+{ "id": "100081", "title" : "Rio", "year":2011 , "genre":["Animation", "Adventure", "Comedy"] }
+{ "create" : { "_index" : "movies", "_id" : "100082" } }
+{ "id": "100082", "title" : "The Croods", "year":2013 , "genre":["Animation", "Adventure", "Comedy"] }
+{ "create" : { "_index" : "movies", "_id" : "100083" } }
+{ "id": "100083", "title" : "Hotel Transylvania", "year":2012 , "genre":["Animation", "Comedy"] }
+{ "create" : { "_index" : "movies", "_id" : "100084" } }
+{ "id": "100084", "title" : "Spider-Man: Into the Spider-Verse", "year":2018 , "genre":["Animation", "Action", "Adventure"] }
+{ "create" : { "_index" : "movies", "_id" : "100085" } }
+{ "id": "100085", "title" : "Big Hero 6", "year":2014 , "genre":["Animation", "Action", "Adventure"] }
+{ "create" : { "_index" : "movies", "_id" : "100086" } }
+{ "id": "100086", "title" : "Wreck-It Ralph", "year":2012 , "genre":["Animation", "Adventure", "Comedy"] }
+{ "create" : { "_index" : "movies", "_id" : "100087" } }
+{ "id": "100087", "title" : "Tangled", "year":2010 , "genre":["Animation", "Adventure", "Comedy"] }
+{ "create" : { "_index" : "movies", "_id" : "100088" } }
+{ "id": "100088", "title" : "The Princess and the Frog", "year":2009 , "genre":["Animation", "Adventure", "Comedy"] }
+{ "create" : { "_index" : "movies", "_id" : "100089" } }
+{ "id": "100089", "title" : "Bolt", "year":2008 , "genre":["Animation", "Adventure", "Comedy"] }
+{ "create" : { "_index" : "movies", "_id" : "100090" } }
+{ "id": "100090", "title" : "Meet the Robinsons", "year":2007 , "genre":["Animation", "Adventure", "Comedy"] }
+{ "create" : { "_index" : "movies", "_id" : "100091" } }
+{ "id": "100091", "title" : "Chicken Little", "year":2005 , "genre":["Animation", "Adventure", "Comedy"] }
+{ "create" : { "_index" : "movies", "_id" : "100092" } }
+{ "id": "100092", "title" : "Brother Bear", "year":2003 , "genre":["Animation", "Adventure", "Drama"] }
+{ "create" : { "_index" : "movies", "_id" : "100093" } }
+{ "id": "100093", "title" : "Lilo & Stitch", "year":2002 , "genre":["Animation", "Adventure", "Comedy"] }
+{ "create" : { "_index" : "movies", "_id" : "100094" } }
+{ "id": "100094", "title" : "Atlantis: The Lost Empire", "year":2001 , "genre":["Animation", "Adventure"] }
+{ "create" : { "_index" : "movies", "_id" : "100095" } }
+{ "id": "100095", "title" : "The Emperor's New Groove", "year":2000 , "genre":["Animation", "Adventure", "Comedy"] }
+{ "create" : { "_index" : "movies", "_id" : "100096" } }
+{ "id": "100096", "title" : "Tarzan", "year":1999 , "genre":["Animation", "Adventure", "Drama"] }
+{ "create" : { "_index" : "movies", "_id" : "100097" } }
+{ "id": "100097", "title" : "Mulan", "year":1998 , "genre":["Animation", "Adventure", "Drama"] }
+{ "create" : { "_index" : "movies", "_id" : "100098" } }
+{ "id": "100098", "title" : "Hercules", "year":1997 , "genre":["Animation", "Adventure", "Comedy"] }
+{ "create" : { "_index" : "movies", "_id" : "100099" } }
+{ "id": "100099", "title" : "The Hunchback of Notre Dame", "year":1996 , "genre":["Animation", "Drama", "Family"] }
+{ "create" : { "_index" : "movies", "_id" : "100100" } }
+{ "id": "100100", "title" : "Pocahontas", "year":1995 , "genre":["Animation", "Adventure", "Drama"] }
+{ "create" : { "_index" : "movies", "_id" : "100101" } }
+{ "id": "100101", "title" : "The Lion King II: Simba's Pride", "year":1998 , "genre":["Animation", "Adventure", "Drama"] }
+{ "create" : { "_index" : "movies", "_id" : "100102" } }
+{ "id": "100102", "title" : "Aladdin and the King of Thieves", "year":1996 , "genre":["Animation", "Adventure", "Comedy"] }
+{ "create" : { "_index" : "movies", "_id" : "100103" } }
+{ "id": "100103", "title" : "The Return of Jafar", "year":1994 , "genre":["Animation", "Adventure", "Comedy"] }
+{ "create" : { "_index" : "movies", "_id" : "100104" } }
+{ "id": "100104", "title" : "Beauty and the Beast: The Enchanted Christmas", "year":1997 , "genre":["Animation", "Family", "Fantasy"] }
+{ "create" : { "_index" : "movies", "_id" : "100105" } }
+{ "id": "100105", "title" : "Bambi II", "year":2006 , "genre":["Animation", "Adventure", "Drama"] }
+{ "create" : { "_index" : "movies", "_id" : "100106" } }
+{ "id": "100106", "title" : "Cinderella II: Dreams Come True", "year":2002 , "genre":["Animation", "Family", "Fantasy"] }
+{ "create" : { "_index" : "movies", "_id" : "100107" } }
+{ "id": "100107", "title" : "Cinderella III: A Twist in Time", "year":2007 , "genre":["Animation", "Family", "Fantasy"] }
+{ "create" : { "_index" : "movies", "_id" : "100108" } }
+{ "id": "100108", "title" : "The Little Mermaid II: Return to the Sea", "year":2000 , "genre":["Animation", "Adventure", "Family"] }
+{ "create" : { "_index" : "movies", "_id" : "100109" } }
+{ "id": "100109", "title" : "The Little Mermaid: Ariel's Beginning", "year":2008 , "genre":["Animation", "Adventure", "Family"] }
+{ "create" : { "_index" : "movies", "_id" : "100110" } }
+{ "id": "100110", "title" : "Lady and the Tramp II: Scamp's Adventure", "year":2001 , "genre":["Animation", "Adventure", "Comedy"] }
+{ "create" : { "_index" : "movies", "_id" : "100111" } }
+{ "id": "100111", "title" : "101 Dalmatians II: Patch's London Adventure", "year":2003 , "genre":["Animation", "Adventure", "Comedy"] }
+{ "create" : { "_index" : "movies", "_id" : "100112" } }
+{ "id": "100112", "title" : "The Fox and the Hound 2", "year":2006 , "genre":["Animation", "Adventure", "Comedy"] }
+{ "create" : { "_index" : "movies", "_id" : "100113" } }
+{ "id": "100113", "title" : "Peter Pan: Return to Never Land", "year":2002 , "genre":["Animation", "Adventure", "Family"] }
+{ "create" : { "_index" : "movies", "_id" : "100114" } }
+{ "id": "100114", "title" : "The Jungle Book 2", "year":2003 , "genre":["Animation", "Adventure", "Family"] }
