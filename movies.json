@@ -1,0 +1,124 @@
+{ "create": { "_index": "movies", "_id": "818" } }
+{ "id": "818", "title": "Magnolia", "year": 1999, "genre": [ "Drama" ] }
+{ "create": { "_index": "movies", "_id": "829" } }
+{ "id": "829", "title": "Reservoir Dogs", "year": 1992, "genre": [ "Crime", "Thriller" ] }
+{ "create": { "_index": "movies", "_id": "838" } }
+{ "id": "838", "title": "Trainspotting", "year": 1996, "genre": [ "Crime", "Drama" ] }
+{ "create": { "_index": "movies", "_id": "862" } }
+{ "id": "862", "title": "Casino", "year": 1995, "genre": [ "Crime", "Drama" ] }
+{ "create": { "_index": "movies", "_id": "883" } }
+{ "id": "883", "title": "The Graduate", "year": 1967, "genre": [ "Comedy", "Drama", "Romance" ] }
+{ "create": { "_index": "movies", "_id": "908" } }
+{ "id": "908", "title": "Vertigo", "year": 1958, "genre": [ "Mystery", "Romance", "Thriller" ] }
+{ "create": { "_index": "movies", "_id": "914" } }
+{ "id": "914", "title": "The Usual Suspects", "year": 1995, "genre": [ "Crime", "Mystery", "Thriller" ] }
+{ "create": { "_index": "movies", "_id": "919" } }
+{ "id": "919", "title": "The Wizard of Oz", "year": 1939, "genre": [ "Adventure", "Family", "Fantasy", "Musical" ] }
+{ "create": { "_index": "movies", "_id": "923" } }
+{ "id": "923", "title": "Singin' in the Rain", "year": 1952, "genre": [ "Comedy", "Musical", "Romance" ] }
+{ "create": { "_index": "movies", "_id": "926" } }
+{ "id": "926", "title": "All About Eve", "year": 1950, "genre": [ "Drama" ] }
+{ "create": { "_index": "movies", "_id": "928" } }
+{ "id": "928", "title": "The Apartment", "year": 1960, "genre": [ "Comedy", "Drama", "Romance" ] }
+{ "create": { "_index": "movies", "_id": "929" } }
+{ "id": "929", "title": "Sunset Blvd.", "year": 1950, "genre": [ "Drama", "Film-Noir" ] }
+{ "create": { "_index": "movies", "_id": "930" } }
+{ "id": "930", "title": "Notorious", "year": 1946, "genre": [ "Film-Noir", "Mystery", "Romance", "Thriller" ] }
+{ "create": { "_index": "movies", "_id": "932" } }
+{ "id": "932", "title": "Citizen Kane", "year": 1941, "genre": [ "Drama", "Mystery" ] }
+{ "create": { "_index": "movies", "_id": "933" } }
+{ "id": "933", "title": "The Third Man", "year": 1949, "genre": [ "Film-Noir", "Mystery", "Thriller" ] }
+{ "create": { "_index": "movies", "_id": "935" } }
+{ "id": "935", "title": "Laura", "year": 1944, "genre": [ "Film-Noir", "Mystery", "Thriller" ] }
+{ "create": { "_index": "movies", "_id": "938" } }
+{ "id": "938", "title": "Psycho", "year": 1960, "genre": [ "Horror", "Mystery", "Thriller" ] }
+{ "create": { "_index": "movies", "_id": "939" } }
+{ "id": "939", "title": "Rear Window", "year": 1954, "genre": [ "Mystery", "Thriller" ] }
+{ "create": { "_index": "movies", "_id": "940" } }
+{ "id": "940", "title": "The Maltese Falcon", "year": 1941, "genre": [ "Film-Noir", "Mystery" ] }
+{ "create": { "_index": "movies", "_id": "949" } }
+{ "id": "949", "title": "Double Indemnity", "year": 1944, "genre": [ "Crime", "Drama", "Film-Noir", "Thriller" ] }
+{ "create": { "_index": "movies", "_id": "953" } }
+{ "id": "953", "title": "L.A. Confidential", "year": 1997, "genre": [ "Crime", "Drama", "Mystery", "Thriller" ] }
+{ "create": { "_index": "movies", "_id": "954" } }
+{ "id": "954", "title": "Bicycle Thieves", "year": 1948, "genre": [ "Drama" ] }
+{ "create": { "_index": "movies", "_id": "956" } }
+{ "id": "956", "title": "M", "year": 1931, "genre": [ "Crime", "Thriller" ] }
+{ "create": { "_index": "movies", "_id": "957" } }
+{ "id": "957", "title": "The Godfather: Part II", "year": 1974, "genre": [ "Crime", "Drama" ] }
+{ "create": { "_index": "movies", "_id": "959" } }
+{ "id": "959", "title": "The Shining", "year": 1980, "genre": [ "Horror", "Mystery", "Thriller" ] }
+{ "create": { "_index": "movies", "_id": "969" } }
+{ "id": "969", "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb", "year": 1964, "genre": [ "Comedy", "War" ] }
+{ "create": { "_index": "movies", "_id": "979" } }
+{ "id": "979", "title": "The General", "year": 1926, "genre": [ "Action", "Adventure", "Comedy", "War" ] }
+{ "create": { "_index": "movies", "_id": "980" } }
+{ "id": "980", "title": "Life Is Beautiful", "year": 1997, "genre": [ "Comedy", "Drama", "War" ] }
+{ "create": { "_index": "movies", "_id": "991" } }
+{ "id": "991", "title": "Monty Python and the Holy Grail", "year": 1975, "genre": [ "Adventure", "Comedy", "Fantasy" ] }
+{ "create": { "_index": "movies", "_id": "1028" } }
+{ "id": "1028", "title": "Duck Soup", "year": 1933, "genre": [ "Comedy", "War" ] }
+{ "create": { "_index": "movies", "_id": "1029" } }
+{ "id": "1029", "title": "The Gold Rush", "year": 1925, "genre": [ "Adventure", "Comedy", "Drama" ] }
+{ "create": { "_index": "movies", "_id": "1036" } }
+{ "id": "1036", "title": "Singin' in the Rain", "year": 1952, "genre": [ "Comedy", "Musical", "Romance" ] }
+{ "create": { "_index": "movies", "_id": "1081" } }
+{ "id": "1081", "title": "The Battle of Algiers", "year": 1966, "genre": [ "Drama", "War" ] }
+{ "create": { "_index": "movies", "_id": "1090" } }
+{ "id": "1090", "title": "Ran", "year": 1985, "genre": [ "Action", "Drama", "War" ] }
+{ "create": { "_index": "movies", "_id": "1104" } }
+{ "id": "1104", "title": "The Treasure of the Sierra Madre", "year": 1948, "genre": [ "Adventure", "Drama", "Western" ] }
+{ "create": { "_index": "movies", "_id": "1113" } }
+{ "id": "1113", "title": "The Conformist", "year": 1970, "genre": [ "Drama" ] }
+{ "create": { "_index": "movies", "_id": "1121" } }
+{ "id": "1121", "title": "Stalker", "year": 1979, "genre": [ "Drama", "Sci-Fi" ] }
+{ "create": { "_index": "movies", "_id": "1136" } }
+{ "id": "1136", "title": "The Good, the Bad and the Ugly", "year": 1966, "genre": [ "Western" ] }
+{ "create": { "_index": "movies", "_id": "1148" } }
+{ "id": "1148", "title": "Seven Samurai", "year": 1954, "genre": [ "Action", "Adventure", "Drama" ] }
+{ "create": { "_index": "movies", "_id": "1160" } }
+{ "id": "1160", "title": "Once Upon a Time in the West", "year": 1968, "genre": [ "Western" ] }
+{ "create": { "_index": "movies", "_id": "1172" } }
+{ "id": "1172", "title": "Cinema Paradiso", "year": 1988, "genre": [ "Drama", "Romance" ] }
+{ "create": { "_index": "movies", "_id": "1178" } }
+{ "id": "1178", "title": "Paths of Glory", "year": 1957, "genre": [ "Drama", "War" ] }
+{ "create": { "_index": "movies", "_id": "1193" } }
+{ "id": "1193", "title": "The General", "year": 1926, "genre": [ "Action", "Adventure", "Comedy", "War" ] }
+{ "create": { "_index": "movies", "_id": "1196" } }
+{ "id": "1196", "title": "The Godfather: Part II", "year": 1974, "genre": [ "Crime", "Drama" ] }
+{ "create": { "_index": "movies", "_id": "1197" } }
+{ "id": "1197", "title": "The Godfather", "year": 1972, "genre": [ "Crime", "Drama" ] }
+{ "create": { "_index": "movies", "_id": "1199" } }
+{ "id": "1199", "title": "Pink Floyd - The Wall", "year": 1982, "genre": [ "Drama", "Music" ] }
+{ "create": { "_index": "movies", "_id": "1201" } }
+{ "id": "1201", "title": "The Great Escape", "year": 1963, "genre": [ "Adventure", "Drama", "History", "Thriller", "War" ] }
+{ "create": { "_index": "movies", "_id": "1203" } }
+{ "id": "1203", "title": "The Shawshank Redemption", "year": 1994, "genre": [ "Crime", "Drama" ] }
+{ "create": { "_index": "movies", "_id": "1204" } }
+{ "id": "1204", "title": "Lawrence of Arabia", "year": 1962, "genre": [ "Adventure", "Drama", "History", "War" ] }
+{ "create": { "_index": "movies", "_id": "1206" } }
+{ "id": "1206", "title": "The Lives of Others", "year": 2006, "genre": [ "Drama", "Thriller" ] }
+{ "create": { "_index": "movies", "_id": "1207" } }
+{ "id": "1207", "title": "To Kill a Mockingbird", "year": 1962, "genre": [ "Crime", "Drama" ] }
+{ "create": { "_index": "movies", "_id": "1208" } }
+{ "id": "1208", "title": "Apocalypse Now", "year": 1979, "genre": [ "Drama", "War" ] }
+{ "create": { "_index": "movies", "_id": "1210" } }
+{ "id": "1210", "title": "Star Wars: Episode VI - Return of the Jedi", "year": 1983, "genre": [ "Action", "Adventure", "Fantasy", "Sci-Fi" ] }
+{ "create": { "_index": "movies", "_id": "1213" } }
+{ "id": "1213", "title": "GoodFellas", "year": 1990, "genre": [ "Biography", "Crime", "Drama" ] }
+{ "create": { "_index": "movies", "_id": "1214" } }
+{ "id": "1214", "title": "Alien", "year": 1979, "genre": [ "Horror", "Sci-Fi", "Thriller" ] }
+{ "create": { "_index": "movies", "_id": "1217" } }
+{ "id": "1217", "title": "The Shining", "year": 1980, "genre": [ "Horror", "Mystery", "Thriller" ] }
+{ "create": { "_index": "movies", "_id": "1218" } }
+{ "id": "1218", "title": "Taxi Driver", "year": 1976, "genre": [ "Crime", "Drama", "Thriller" ] }
+{ "create": { "_index": "movies", "_id": "1219" } }
+{ "id": "1219", "title": "The Bridge on the River Kwai", "year": 1957, "genre": [ "Adventure", "Drama", "War" ] }
+{ "create": { "_index": "movies", "_id": "1220" } }
+{ "id": "1220", "title": "The Dark Knight", "year": 2008, "genre": [ "Action", "Crime", "Drama", "Thriller", "IMAX" ] }
+{ "create": { "_index": "movies", "_id": "1221" } }
+{ "id": "1221", "title": "Eternal Sunshine of the Spotless Mind", "year": 2004, "genre": [ "Drama", "Romance", "Sci-Fi" ] }
+{ "create": { "_index": "movies", "_id": "1222" } }
+{ "id": "1222", "title": "Memento", "year": 2000, "genre": [ "Mystery", "Thriller" ] }
+{ "create": { "_index": "movies", "_id": "1223" } }
+{ "id": "1223", "title": "Amelie", "year": 2001, "genre": [ "Comedy", "Romance" ] }
