@@ -1,0 +1,600 @@
+{ "create" : { "_index" : "movies", "_id" : "477699" } }
+{"id": "477699", "title": "The Matrix", "year": 1989, "genre": ["Horror", "IMAX"]}
+{ "create" : { "_index" : "movies", "_id" : "44822" } }
+{"id": "44822", "title": "Avengers: Endgame", "year": 1963, "genre": ["Adventure", "Sci-Fi", "Thriller"]}
+{ "create" : { "_index" : "movies", "_id" : "511257" } }
+{"id": "511257", "title": "Star Trek Beyond", "year": 1995, "genre": ["Action", "Fantasy", "IMAX"]}
+{ "create" : { "_index" : "movies", "_id" : "318344" } }
+{"id": "318344", "title": "Star Wars: Episode VII - The Force Awakens", "year": 2020, "genre": ["Adventure", "Drama", "IMAX"]}
+{ "create" : { "_index" : "movies", "_id" : "725983" } }
+{"id": "725983", "title": "Avengers: Endgame", "year": 1980, "genre": ["Sci-Fi", "Comedy"]}
+{ "create" : { "_index" : "movies", "_id" : "206090" } }
+{"id": "206090", "title": "The Shawshank Redemption", "year": 2013, "genre": ["Thriller", "Romance", "Fantasy", "IMAX"]}
+{ "create" : { "_index" : "movies", "_id" : "868332" } }
+{"id": "868332", "title": "Back to the Future", "year": 1983, "genre": ["Romance", "Action", "Drama"]}
+{ "create" : { "_index" : "movies", "_id" : "445244" } }
+{"id": "445244", "title": "Jurassic Park", "year": 1970, "genre": ["Drama", "IMAX", "Action", "Comedy", "Crime"]}
+{ "create" : { "_index" : "movies", "_id" : "777356" } }
+{"id": "777356", "title": "The Dark Knight", "year": 1953, "genre": ["Thriller", "IMAX", "Horror"]}
+{ "create" : { "_index" : "movies", "_id" : "710535" } }
+{"id": "710535", "title": "Avengers: Endgame", "year": 2016, "genre": ["Thriller", "Adventure", "Action"]}
+{ "create" : { "_index" : "movies", "_id" : "859175" } }
+{"id": "859175", "title": "Avengers: Endgame", "year": 1976, "genre": ["Crime", "Sci-Fi", "IMAX"]}
+{ "create" : { "_index" : "movies", "_id" : "184847" } }
+{"id": "184847", "title": "The Godfather", "year": 1985, "genre": ["Comedy", "Thriller", "IMAX", "Sci-Fi"]}
+{ "create" : { "_index" : "movies", "_id" : "805547" } }
+{"id": "805547", "title": "Avengers: Endgame", "year": 1993, "genre": ["Drama", "Action", "Romance", "IMAX"]}
+{ "create" : { "_index" : "movies", "_id" : "931246" } }
+{"id": "931246", "title": "Pulp Fiction", "year": 1987, "genre": ["Sci-Fi", "Horror", "Adventure", "Comedy", "Crime"]}
+{ "create" : { "_index" : "movies", "_id" : "15706" } }
+{"id": "15706", "title": "Star Wars: Episode VII - The Force Awakens", "year": 2021, "genre": ["Romance", "Sci-Fi", "Adventure"]}
+{ "create" : { "_index" : "movies", "_id" : "817297" } }
+{"id": "817297", "title": "The Shawshank Redemption", "year": 1985, "genre": ["Comedy", "Romance", "Crime", "Drama"]}
+{ "create" : { "_index" : "movies", "_id" : "666214" } }
+{"id": "666214", "title": "The Shawshank Redemption", "year": 1987, "genre": ["Thriller", "Comedy"]}
+{ "create" : { "_index" : "movies", "_id" : "575358" } }
+{"id": "575358", "title": "Pulp Fiction", "year": 1965, "genre": ["Fantasy", "Horror", "Drama", "IMAX"]}
+{ "create" : { "_index" : "movies", "_id" : "104175" } }
+{"id": "104175", "title": "Star Wars: Episode VII - The Force Awakens", "year": 1950, "genre": ["Sci-Fi", "Action"]}
+{ "create" : { "_index" : "movies", "_id" : "927787" } }
+{"id": "927787", "title": "Interstellar", "year": 1950, "genre": ["Drama", "Thriller", "Crime"]}
+{ "create" : { "_index" : "movies", "_id" : "14045" } }
+{"id": "14045", "title": "The Godfather", "year": 1976, "genre": ["IMAX", "Horror", "Drama", "Comedy"]}
+{ "create" : { "_index" : "movies", "_id" : "670840" } }
+{"id": "670840", "title": "Jurassic Park", "year": 2018, "genre": ["Adventure", "Sci-Fi"]}
+{ "create" : { "_index" : "movies", "_id" : "709777" } }
+{"id": "709777", "title": "Inception", "year": 2015, "genre": ["Romance", "Fantasy", "Horror"]}
+{ "create" : { "_index" : "movies", "_id" : "904048" } }
+{"id": "904048", "title": "Avengers: Endgame", "year": 2024, "genre": ["Romance", "Thriller", "Comedy", "Drama"]}
+{ "create" : { "_index" : "movies", "_id" : "270070" } }
+{"id": "270070", "title": "The Godfather", "year": 2023, "genre": ["Sci-Fi", "Comedy", "IMAX", "Drama", "Thriller"]}
+{ "create" : { "_index" : "movies", "_id" : "960368" } }
+{"id": "960368", "title": "The Lord of the Rings", "year": 2012, "genre": ["Horror", "Fantasy", "Crime", "Romance", "Adventure"]}
+{ "create" : { "_index" : "movies", "_id" : "659493" } }
+{"id": "659493", "title": "Pulp Fiction", "year": 1997, "genre": ["Drama", "Crime", "Fantasy"]}
+{ "create" : { "_index" : "movies", "_id" : "470471" } }
+{"id": "470471", "title": "Jurassic Park", "year": 1965, "genre": ["Horror", "Sci-Fi", "Drama", "Comedy", "Romance"]}
+{ "create" : { "_index" : "movies", "_id" : "777527" } }
+{"id": "777527", "title": "Plan 9 from Outer Space", "year": 1973, "genre": ["Sci-Fi", "Romance", "Horror"]}
+{ "create" : { "_index" : "movies", "_id" : "877756" } }
+{"id": "877756", "title": "Pulp Fiction", "year": 2000, "genre": ["Sci-Fi", "Thriller", "Drama"]}
+{ "create" : { "_index" : "movies", "_id" : "422507" } }
+{"id": "422507", "title": "The Godfather", "year": 2023, "genre": ["Romance", "Thriller", "Fantasy"]}
+{ "create" : { "_index" : "movies", "_id" : "279062" } }
+{"id": "279062", "title": "The Shawshank Redemption", "year": 2001, "genre": ["Crime", "Drama", "Adventure", "Horror"]}
+{ "create" : { "_index" : "movies", "_id" : "991214" } }
+{"id": "991214", "title": "The Godfather", "year": 2024, "genre": ["Action", "IMAX", "Romance", "Sci-Fi", "Comedy"]}
+{ "create" : { "_index" : "movies", "_id" : "939185" } }
+{"id": "939185", "title": "Plan 9 from Outer Space", "year": 2014, "genre": ["Adventure", "Comedy"]}
+{ "create" : { "_index" : "movies", "_id" : "209889" } }
+{"id": "209889", "title": "The Godfather", "year": 2024, "genre": ["Drama", "Romance", "Comedy", "Adventure"]}
+{ "create" : { "_index" : "movies", "_id" : "817788" } }
+{"id": "817788", "title": "Back to the Future", "year": 1969, "genre": ["Action", "Drama"]}
+{ "create" : { "_index" : "movies", "_id" : "299066" } }
+{"id": "299066", "title": "The Dark Knight", "year": 1988, "genre": ["Action", "Romance"]}
+{ "create" : { "_index" : "movies", "_id" : "146931" } }
+{"id": "146931", "title": "Inception", "year": 1984, "genre": ["Comedy", "Fantasy", "Horror", "IMAX"]}
+{ "create" : { "_index" : "movies", "_id" : "236713" } }
+{"id": "236713", "title": "The Lord of the Rings", "year": 1975, "genre": ["Romance", "Comedy"]}
+{ "create" : { "_index" : "movies", "_id" : "252451" } }
+{"id": "252451", "title": "Interstellar", "year": 2006, "genre": ["IMAX", "Romance", "Sci-Fi"]}
+{ "create" : { "_index" : "movies", "_id" : "542720" } }
+{"id": "542720", "title": "Jurassic Park", "year": 1970, "genre": ["Romance", "Drama", "Action", "Horror"]}
+{ "create" : { "_index" : "movies", "_id" : "509303" } }
+{"id": "509303", "title": "The Lord of the Rings", "year": 1974, "genre": ["Crime", "Adventure", "Action", "Drama"]}
+{ "create" : { "_index" : "movies", "_id" : "327568" } }
+{"id": "327568", "title": "Inception", "year": 1985, "genre": ["Horror", "Thriller", "Adventure", "Fantasy"]}
+{ "create" : { "_index" : "movies", "_id" : "907200" } }
+{"id": "907200", "title": "The Matrix", "year": 1974, "genre": ["Drama", "Fantasy"]}
+{ "create" : { "_index" : "movies", "_id" : "259319" } }
+{"id": "259319", "title": "The Matrix", "year": 2013, "genre": ["Horror", "Fantasy"]}
+{ "create" : { "_index" : "movies", "_id" : "309103" } }
+{"id": "309103", "title": "Pulp Fiction", "year": 2007, "genre": ["Horror", "Sci-Fi"]}
+{ "create" : { "_index" : "movies", "_id" : "261465" } }
+{"id": "261465", "title": "Jurassic Park", "year": 2006, "genre": ["Adventure", "Horror", "Action", "Crime", "Thriller"]}
+{ "create" : { "_index" : "movies", "_id" : "619801" } }
+{"id": "619801", "title": "Star Trek Beyond", "year": 1991, "genre": ["Action", "IMAX", "Fantasy", "Sci-Fi"]}
+{ "create" : { "_index" : "movies", "_id" : "763202" } }
+{"id": "763202", "title": "Plan 9 from Outer Space", "year": 2005, "genre": ["Romance", "Crime", "IMAX", "Comedy", "Horror"]}
+{ "create" : { "_index" : "movies", "_id" : "321120" } }
+{"id": "321120", "title": "Back to the Future", "year": 2017, "genre": ["Romance", "Horror", "Thriller", "Fantasy"]}
+{ "create" : { "_index" : "movies", "_id" : "735008" } }
+{"id": "735008", "title": "The Lord of the Rings", "year": 1951, "genre": ["Crime", "Action", "Thriller"]}
+{ "create" : { "_index" : "movies", "_id" : "933329" } }
+{"id": "933329", "title": "Jurassic Park", "year": 1969, "genre": ["Thriller", "Sci-Fi", "Horror", "Comedy"]}
+{ "create" : { "_index" : "movies", "_id" : "463757" } }
+{"id": "463757", "title": "Avatar", "year": 1989, "genre": ["Romance", "Sci-Fi", "Fantasy", "IMAX", "Drama"]}
+{ "create" : { "_index" : "movies", "_id" : "936114" } }
+{"id": "936114", "title": "The Godfather", "year": 1960, "genre": ["Thriller", "Fantasy", "Horror", "IMAX"]}
+{ "create" : { "_index" : "movies", "_id" : "880001" } }
+{"id": "880001", "title": "The Godfather", "year": 2000, "genre": ["IMAX", "Comedy", "Sci-Fi", "Action", "Horror"]}
+{ "create" : { "_index" : "movies", "_id" : "878935" } }
+{"id": "878935", "title": "The Matrix", "year": 2022, "genre": ["Crime", "Romance", "Drama"]}
+{ "create" : { "_index" : "movies", "_id" : "331378" } }
+{"id": "331378", "title": "The Shawshank Redemption", "year": 1960, "genre": ["Romance", "Comedy", "Adventure", "Crime", "Action"]}
+{ "create" : { "_index" : "movies", "_id" : "558402" } }
+{"id": "558402", "title": "The Lord of the Rings", "year": 1973, "genre": ["IMAX", "Thriller"]}
+{ "create" : { "_index" : "movies", "_id" : "407795" } }
+{"id": "407795", "title": "Back to the Future", "year": 1988, "genre": ["Crime", "Comedy", "Action", "IMAX"]}
+{ "create" : { "_index" : "movies", "_id" : "897191" } }
+{"id": "897191", "title": "The Matrix", "year": 1975, "genre": ["Adventure", "Horror", "Drama", "Comedy"]}
+{ "create" : { "_index" : "movies", "_id" : "880559" } }
+{"id": "880559", "title": "The Dark Knight", "year": 2002, "genre": ["Adventure", "Crime", "Fantasy", "Horror"]}
+{ "create" : { "_index" : "movies", "_id" : "380925" } }
+{"id": "380925", "title": "Star Wars: Episode VII - The Force Awakens", "year": 1964, "genre": ["Fantasy", "Horror", "IMAX"]}
+{ "create" : { "_index" : "movies", "_id" : "260190" } }
+{"id": "260190", "title": "Jurassic Park", "year": 1967, "genre": ["Romance", "Fantasy"]}
+{ "create" : { "_index" : "movies", "_id" : "90730" } }
+{"id": "90730", "title": "Star Wars: Episode VII - The Force Awakens", "year": 1955, "genre": ["IMAX", "Fantasy"]}
+{ "create" : { "_index" : "movies", "_id" : "341692" } }
+{"id": "341692", "title": "Star Wars: Episode VII - The Force Awakens", "year": 1979, "genre": ["Drama", "Horror", "Romance", "Fantasy", "Comedy"]}
+{ "create" : { "_index" : "movies", "_id" : "624197" } }
+{"id": "624197", "title": "Star Wars: Episode VII - The Force Awakens", "year": 1958, "genre": ["IMAX", "Crime", "Comedy", "Sci-Fi"]}
+{ "create" : { "_index" : "movies", "_id" : "150416" } }
+{"id": "150416", "title": "Avengers: Endgame", "year": 1956, "genre": ["IMAX", "Crime", "Comedy", "Thriller", "Drama"]}
+{ "create" : { "_index" : "movies", "_id" : "465429" } }
+{"id": "465429", "title": "The Shawshank Redemption", "year": 1982, "genre": ["Crime", "Sci-Fi", "Romance", "Comedy", "Thriller"]}
+{ "create" : { "_index" : "movies", "_id" : "640037" } }
+{"id": "640037", "title": "Avengers: Endgame", "year": 2022, "genre": ["Thriller", "IMAX", "Fantasy"]}
+{ "create" : { "_index" : "movies", "_id" : "311418" } }
+{"id": "311418", "title": "The Shawshank Redemption", "year": 1997, "genre": ["Comedy", "Thriller", "IMAX", "Action"]}
+{ "create" : { "_index" : "movies", "_id" : "525238" } }
+{"id": "525238", "title": "Interstellar", "year": 2003, "genre": ["Comedy", "Horror", "Romance", "Adventure", "Action"]}
+{ "create" : { "_index" : "movies", "_id" : "512910" } }
+{"id": "512910", "title": "The Lord of the Rings", "year": 1963, "genre": ["Adventure", "Romance", "Crime", "Thriller"]}
+{ "create" : { "_index" : "movies", "_id" : "741634" } }
+{"id": "741634", "title": "Back to the Future", "year": 1972, "genre": ["Action", "Romance"]}
+{ "create" : { "_index" : "movies", "_id" : "554418" } }
+{"id": "554418", "title": "Inception", "year": 1974, "genre": ["IMAX", "Fantasy", "Horror", "Sci-Fi"]}
+{ "create" : { "_index" : "movies", "_id" : "440991" } }
+{"id": "440991", "title": "The Dark Knight", "year": 2012, "genre": ["Romance", "Adventure", "Comedy"]}
+{ "create" : { "_index" : "movies", "_id" : "157164" } }
+{"id": "157164", "title": "Avengers: Endgame", "year": 1996, "genre": ["Fantasy", "IMAX", "Action", "Comedy", "Drama"]}
+{ "create" : { "_index" : "movies", "_id" : "873648" } }
+{"id": "873648", "title": "Avatar", "year": 1986, "genre": ["Comedy", "Fantasy"]}
+{ "create" : { "_index" : "movies", "_id" : "246218" } }
+{"id": "246218", "title": "The Matrix", "year": 2001, "genre": ["Sci-Fi", "Thriller", "Action", "IMAX"]}
+{ "create" : { "_index" : "movies", "_id" : "43637" } }
+{"id": "43637", "title": "Plan 9 from Outer Space", "year": 1985, "genre": ["Action", "Adventure", "Horror", "IMAX"]}
+{ "create" : { "_index" : "movies", "_id" : "331559" } }
+{"id": "331559", "title": "The Dark Knight", "year": 2021, "genre": ["Adventure", "IMAX"]}
+{ "create" : { "_index" : "movies", "_id" : "590602" } }
+{"id": "590602", "title": "Interstellar", "year": 2017, "genre": ["IMAX", "Crime", "Romance", "Horror"]}
+{ "create" : { "_index" : "movies", "_id" : "407420" } }
+{"id": "407420", "title": "Pulp Fiction", "year": 2016, "genre": ["Horror", "Romance", "Sci-Fi", "Adventure"]}
+{ "create" : { "_index" : "movies", "_id" : "611819" } }
+{"id": "611819", "title": "The Dark Knight", "year": 2003, "genre": ["Fantasy", "IMAX", "Sci-Fi", "Action"]}
+{ "create" : { "_index" : "movies", "_id" : "984882" } }
+{"id": "984882", "title": "Back to the Future", "year": 1967, "genre": ["Comedy", "IMAX", "Romance", "Crime", "Action"]}
+{ "create" : { "_index" : "movies", "_id" : "919056" } }
+{"id": "919056", "title": "The Shawshank Redemption", "year": 2009, "genre": ["Comedy", "Thriller", "Sci-Fi", "Crime"]}
+{ "create" : { "_index" : "movies", "_id" : "955180" } }
+{"id": "955180", "title": "Plan 9 from Outer Space", "year": 1976, "genre": ["Thriller", "Romance", "Adventure"]}
+{ "create" : { "_index" : "movies", "_id" : "853806" } }
+{"id": "853806", "title": "The Dark Knight", "year": 1999, "genre": ["Action", "Romance", "Comedy", "Crime"]}
+{ "create" : { "_index" : "movies", "_id" : "659139" } }
+{"id": "659139", "title": "Star Wars: Episode VII - The Force Awakens", "year": 2009, "genre": ["Crime", "Horror", "Romance", "Thriller"]}
+{ "create" : { "_index" : "movies", "_id" : "31023" } }
+{"id": "31023", "title": "Jurassic Park", "year": 1987, "genre": ["Horror", "Drama", "Romance"]}
+{ "create" : { "_index" : "movies", "_id" : "217602" } }
+{"id": "217602", "title": "Pulp Fiction", "year": 2010, "genre": ["Action", "Adventure", "Comedy", "Horror"]}
+{ "create" : { "_index" : "movies", "_id" : "709765" } }
+{"id": "709765", "title": "Plan 9 from Outer Space", "year": 1963, "genre": ["Crime", "Thriller"]}
+{ "create" : { "_index" : "movies", "_id" : "169848" } }
+{"id": "169848", "title": "Interstellar", "year": 1993, "genre": ["Adventure", "Horror", "Crime"]}
+{ "create" : { "_index" : "movies", "_id" : "139520" } }
+{"id": "139520", "title": "Back to the Future", "year": 1968, "genre": ["Adventure", "IMAX", "Horror", "Sci-Fi", "Action"]}
+{ "create" : { "_index" : "movies", "_id" : "474561" } }
+{"id": "474561", "title": "Back to the Future", "year": 1961, "genre": ["Fantasy", "Crime", "Drama", "Adventure"]}
+{ "create" : { "_index" : "movies", "_id" : "755543" } }
+{"id": "755543", "title": "Star Wars: Episode VII - The Force Awakens", "year": 1978, "genre": ["Thriller", "Adventure", "Drama", "Comedy"]}
+{ "create" : { "_index" : "movies", "_id" : "587670" } }
+{"id": "587670", "title": "Interstellar", "year": 2022, "genre": ["Comedy", "IMAX"]}
+{ "create" : { "_index" : "movies", "_id" : "393200" } }
+{"id": "393200", "title": "The Godfather", "year": 1998, "genre": ["Sci-Fi", "Romance", "Adventure"]}
+{ "create" : { "_index" : "movies", "_id" : "129473" } }
+{"id": "129473", "title": "The Lord of the Rings", "year": 1986, "genre": ["Action", "Crime", "Sci-Fi", "Fantasy"]}
+{ "create" : { "_index" : "movies", "_id" : "868244" } }
+{"id": "868244", "title": "The Lord of the Rings", "year": 2005, "genre": ["Adventure", "Action", "Crime"]}
+{ "create" : { "_index" : "movies", "_id" : "114555" } }
+{"id": "114555", "title": "Plan 9 from Outer Space", "year": 1971, "genre": ["Thriller", "Comedy"]}
+{ "create" : { "_index" : "movies", "_id" : "346910" } }
+{"id": "346910", "title": "Avatar", "year": 1971, "genre": ["Comedy", "Fantasy", "IMAX", "Crime", "Drama"]}
+{ "create" : { "_index" : "movies", "_id" : "33962" } }
+{"id": "33962", "title": "Jurassic Park", "year": 1991, "genre": ["Sci-Fi", "Horror", "Romance", "Fantasy"]}
+{ "create" : { "_index" : "movies", "_id" : "748029" } }
+{"id": "748029", "title": "Avengers: Endgame", "year": 2023, "genre": ["Action", "Comedy", "Thriller"]}
+{ "create" : { "_index" : "movies", "_id" : "386720" } }
+{"id": "386720", "title": "The Matrix", "year": 2023, "genre": ["Horror", "Action", "Sci-Fi"]}
+{ "create" : { "_index" : "movies", "_id" : "154171" } }
+{"id": "154171", "title": "The Matrix", "year": 1964, "genre": ["Action", "Fantasy", "Thriller", "Romance", "IMAX"]}
+{ "create" : { "_index" : "movies", "_id" : "895108" } }
+{"id": "895108", "title": "Avatar", "year": 2012, "genre": ["Drama", "Fantasy", "IMAX"]}
+{ "create" : { "_index" : "movies", "_id" : "605891" } }
+{"id": "605891", "title": "Back to the Future", "year": 2012, "genre": ["IMAX", "Drama", "Sci-Fi", "Comedy", "Fantasy"]}
+{ "create" : { "_index" : "movies", "_id" : "852267" } }
+{"id": "852267", "title": "The Dark Knight", "year": 1974, "genre": ["Romance", "Drama"]}
+{ "create" : { "_index" : "movies", "_id" : "662750" } }
+{"id": "662750", "title": "The Dark Knight", "year": 1987, "genre": ["Adventure", "Thriller", "Sci-Fi"]}
+{ "create" : { "_index" : "movies", "_id" : "425945" } }
+{"id": "425945", "title": "Star Trek Beyond", "year": 1978, "genre": ["Fantasy", "Action", "Romance", "Thriller", "Crime"]}
+{ "create" : { "_index" : "movies", "_id" : "948005" } }
+{"id": "948005", "title": "The Matrix", "year": 1958, "genre": ["Comedy", "Horror", "Crime"]}
+{ "create" : { "_index" : "movies", "_id" : "249814" } }
+{"id": "249814", "title": "Jurassic Park", "year": 1995, "genre": ["Romance", "Drama"]}
+{ "create" : { "_index" : "movies", "_id" : "159921" } }
+{"id": "159921", "title": "Avatar", "year": 1986, "genre": ["Drama", "Fantasy", "Adventure", "Action"]}
+{ "create" : { "_index" : "movies", "_id" : "632651" } }
+{"id": "632651", "title": "The Matrix", "year": 2011, "genre": ["Sci-Fi", "Romance"]}
+{ "create" : { "_index" : "movies", "_id" : "242738" } }
+{"id": "242738", "title": "Jurassic Park", "year": 1965, "genre": ["Drama", "Action"]}
+{ "create" : { "_index" : "movies", "_id" : "877065" } }
+{"id": "877065", "title": "Pulp Fiction", "year": 2008, "genre": ["Drama", "Sci-Fi", "Fantasy"]}
+{ "create" : { "_index" : "movies", "_id" : "908148" } }
+{"id": "908148", "title": "Back to the Future", "year": 1989, "genre": ["Thriller", "Adventure", "IMAX"]}
+{ "create" : { "_index" : "movies", "_id" : "204831" } }
+{"id": "204831", "title": "Back to the Future", "year": 1982, "genre": ["Sci-Fi", "Crime", "Romance", "Drama"]}
+{ "create" : { "_index" : "movies", "_id" : "840335" } }
+{"id": "840335", "title": "The Lord of the Rings", "year": 1983, "genre": ["Romance", "Adventure"]}
+{ "create" : { "_index" : "movies", "_id" : "757511" } }
+{"id": "757511", "title": "Inception", "year": 2024, "genre": ["IMAX", "Crime"]}
+{ "create" : { "_index" : "movies", "_id" : "274329" } }
+{"id": "274329", "title": "Inception", "year": 1984, "genre": ["Adventure", "Comedy", "Horror", "Thriller", "Drama"]}
+{ "create" : { "_index" : "movies", "_id" : "540260" } }
+{"id": "540260", "title": "Back to the Future", "year": 1994, "genre": ["Horror", "Thriller", "Drama", "Crime", "IMAX"]}
+{ "create" : { "_index" : "movies", "_id" : "255162" } }
+{"id": "255162", "title": "Avengers: Endgame", "year": 2022, "genre": ["Thriller", "IMAX"]}
+{ "create" : { "_index" : "movies", "_id" : "667803" } }
+{"id": "667803", "title": "The Shawshank Redemption", "year": 1971, "genre": ["Sci-Fi", "Horror", "Thriller", "Adventure"]}
+{ "create" : { "_index" : "movies", "_id" : "698361" } }
+{"id": "698361", "title": "The Lord of the Rings", "year": 2000, "genre": ["Crime", "Drama", "Romance", "Sci-Fi", "Comedy"]}
+{ "create" : { "_index" : "movies", "_id" : "722810" } }
+{"id": "722810", "title": "The Lord of the Rings", "year": 1981, "genre": ["Romance", "Action", "Crime"]}
+{ "create" : { "_index" : "movies", "_id" : "377943" } }
+{"id": "377943", "title": "Back to the Future", "year": 2008, "genre": ["Thriller", "Fantasy"]}
+{ "create" : { "_index" : "movies", "_id" : "781614" } }
+{"id": "781614", "title": "Avatar", "year": 1979, "genre": ["Drama", "Action", "Comedy", "Fantasy"]}
+{ "create" : { "_index" : "movies", "_id" : "252624" } }
+{"id": "252624", "title": "Pulp Fiction", "year": 2005, "genre": ["Comedy", "Fantasy", "Drama", "Thriller", "Sci-Fi"]}
+{ "create" : { "_index" : "movies", "_id" : "443484" } }
+{"id": "443484", "title": "Pulp Fiction", "year": 2003, "genre": ["Comedy", "Adventure", "Crime"]}
+{ "create" : { "_index" : "movies", "_id" : "294863" } }
+{"id": "294863", "title": "Pulp Fiction", "year": 2014, "genre": ["Adventure", "IMAX", "Thriller"]}
+{ "create" : { "_index" : "movies", "_id" : "137723" } }
+{"id": "137723", "title": "Pulp Fiction", "year": 1989, "genre": ["Thriller", "IMAX"]}
+{ "create" : { "_index" : "movies", "_id" : "438310" } }
+{"id": "438310", "title": "Inception", "year": 1978, "genre": ["Crime", "Fantasy", "Sci-Fi", "Action"]}
+{ "create" : { "_index" : "movies", "_id" : "621671" } }
+{"id": "621671", "title": "The Godfather", "year": 1995, "genre": ["Drama", "Sci-Fi", "Thriller"]}
+{ "create" : { "_index" : "movies", "_id" : "116650" } }
+{"id": "116650", "title": "Back to the Future", "year": 2012, "genre": ["Drama", "Thriller", "IMAX", "Adventure"]}
+{ "create" : { "_index" : "movies", "_id" : "771054" } }
+{"id": "771054", "title": "The Shawshank Redemption", "year": 2024, "genre": ["Horror", "IMAX", "Adventure", "Fantasy", "Crime"]}
+{ "create" : { "_index" : "movies", "_id" : "579814" } }
+{"id": "579814", "title": "Avatar", "year": 1996, "genre": ["Adventure", "Comedy", "Action", "Sci-Fi", "Drama"]}
+{ "create" : { "_index" : "movies", "_id" : "833356" } }
+{"id": "833356", "title": "The Lord of the Rings", "year": 1974, "genre": ["IMAX", "Drama", "Adventure"]}
+{ "create" : { "_index" : "movies", "_id" : "616166" } }
+{"id": "616166", "title": "Avengers: Endgame", "year": 2005, "genre": ["Comedy", "Crime", "Action", "Thriller", "Sci-Fi"]}
+{ "create" : { "_index" : "movies", "_id" : "744518" } }
+{"id": "744518", "title": "Plan 9 from Outer Space", "year": 1990, "genre": ["Sci-Fi", "Crime", "Adventure", "Thriller"]}
+{ "create" : { "_index" : "movies", "_id" : "222577" } }
+{"id": "222577", "title": "Avatar", "year": 2009, "genre": ["Action", "Drama"]}
+{ "create" : { "_index" : "movies", "_id" : "852103" } }
+{"id": "852103", "title": "Avatar", "year": 1972, "genre": ["Action", "Fantasy", "Comedy", "Crime", "Romance"]}
+{ "create" : { "_index" : "movies", "_id" : "127178" } }
+{"id": "127178", "title": "Avatar", "year": 1959, "genre": ["Thriller", "Sci-Fi", "Drama", "Crime", "Adventure"]}
+{ "create" : { "_index" : "movies", "_id" : "161046" } }
+{"id": "161046", "title": "Star Wars: Episode VII - The Force Awakens", "year": 2009, "genre": ["Horror", "Fantasy", "Action"]}
+{ "create" : { "_index" : "movies", "_id" : "323814" } }
+{"id": "323814", "title": "Avatar", "year": 1993, "genre": ["IMAX", "Romance", "Fantasy", "Action", "Crime"]}
+{ "create" : { "_index" : "movies", "_id" : "482979" } }
+{"id": "482979", "title": "Star Wars: Episode VII - The Force Awakens", "year": 1996, "genre": ["Romance", "Comedy"]}
+{ "create" : { "_index" : "movies", "_id" : "690894" } }
+{"id": "690894", "title": "Avengers: Endgame", "year": 1986, "genre": ["Action", "Thriller", "Fantasy"]}
+{ "create" : { "_index" : "movies", "_id" : "954217" } }
+{"id": "954217", "title": "Star Trek Beyond", "year": 1982, "genre": ["Fantasy", "Adventure"]}
+{ "create" : { "_index" : "movies", "_id" : "977102" } }
+{"id": "977102", "title": "Plan 9 from Outer Space", "year": 2008, "genre": ["Fantasy", "Thriller", "Comedy", "Sci-Fi", "Adventure"]}
+{ "create" : { "_index" : "movies", "_id" : "543494" } }
+{"id": "543494", "title": "Star Trek Beyond", "year": 1990, "genre": ["Horror", "Crime", "Thriller", "Fantasy"]}
+{ "create" : { "_index" : "movies", "_id" : "706366" } }
+{"id": "706366", "title": "Avatar", "year": 1972, "genre": ["Crime", "Fantasy"]}
+{ "create" : { "_index" : "movies", "_id" : "720976" } }
+{"id": "720976", "title": "The Shawshank Redemption", "year": 1992, "genre": ["Comedy", "Action", "IMAX"]}
+{ "create" : { "_index" : "movies", "_id" : "109780" } }
+{"id": "109780", "title": "Interstellar", "year": 1969, "genre": ["Thriller", "Horror", "Fantasy"]}
+{ "create" : { "_index" : "movies", "_id" : "425261" } }
+{"id": "425261", "title": "Star Trek Beyond", "year": 1998, "genre": ["Crime", "Fantasy", "Comedy", "IMAX", "Horror"]}
+{ "create" : { "_index" : "movies", "_id" : "910478" } }
+{"id": "910478", "title": "The Lord of the Rings", "year": 1955, "genre": ["Crime", "Romance", "Sci-Fi", "IMAX"]}
+{ "create" : { "_index" : "movies", "_id" : "499709" } }
+{"id": "499709", "title": "Interstellar", "year": 1982, "genre": ["IMAX", "Drama"]}
+{ "create" : { "_index" : "movies", "_id" : "813599" } }
+{"id": "813599", "title": "Avatar", "year": 2015, "genre": ["Crime", "Adventure", "Sci-Fi", "Comedy", "Horror"]}
+{ "create" : { "_index" : "movies", "_id" : "569760" } }
+{"id": "569760", "title": "The Lord of the Rings", "year": 1988, "genre": ["Comedy", "Adventure"]}
+{ "create" : { "_index" : "movies", "_id" : "837613" } }
+{"id": "837613", "title": "Plan 9 from Outer Space", "year": 1974, "genre": ["Sci-Fi", "Action"]}
+{ "create" : { "_index" : "movies", "_id" : "11227" } }
+{"id": "11227", "title": "Inception", "year": 1992, "genre": ["Action", "Fantasy", "Romance", "Horror", "IMAX"]}
+{ "create" : { "_index" : "movies", "_id" : "553046" } }
+{"id": "553046", "title": "The Matrix", "year": 2018, "genre": ["IMAX", "Comedy"]}
+{ "create" : { "_index" : "movies", "_id" : "372333" } }
+{"id": "372333", "title": "The Matrix", "year": 2013, "genre": ["Drama", "IMAX", "Thriller", "Crime"]}
+{ "create" : { "_index" : "movies", "_id" : "109201" } }
+{"id": "109201", "title": "The Lord of the Rings", "year": 1953, "genre": ["Crime", "IMAX", "Adventure", "Action", "Comedy"]}
+{ "create" : { "_index" : "movies", "_id" : "161004" } }
+{"id": "161004", "title": "The Shawshank Redemption", "year": 1998, "genre": ["Fantasy", "Drama", "Crime"]}
+{ "create" : { "_index" : "movies", "_id" : "863310" } }
+{"id": "863310", "title": "The Matrix", "year": 1954, "genre": ["Crime", "Comedy", "Action"]}
+{ "create" : { "_index" : "movies", "_id" : "620974" } }
+{"id": "620974", "title": "Interstellar", "year": 1961, "genre": ["Fantasy", "Adventure"]}
+{ "create" : { "_index" : "movies", "_id" : "565183" } }
+{"id": "565183", "title": "Pulp Fiction", "year": 1965, "genre": ["Comedy", "Romance", "IMAX", "Crime", "Horror"]}
+{ "create" : { "_index" : "movies", "_id" : "745755" } }
+{"id": "745755", "title": "Jurassic Park", "year": 2015, "genre": ["IMAX", "Action"]}
+{ "create" : { "_index" : "movies", "_id" : "766092" } }
+{"id": "766092", "title": "The Matrix", "year": 1968, "genre": ["IMAX", "Romance", "Fantasy"]}
+{ "create" : { "_index" : "movies", "_id" : "227196" } }
+{"id": "227196", "title": "Avatar", "year": 1995, "genre": ["Crime", "Drama"]}
+{ "create" : { "_index" : "movies", "_id" : "748115" } }
+{"id": "748115", "title": "Back to the Future", "year": 2009, "genre": ["Horror", "Fantasy", "Action", "Crime", "Sci-Fi"]}
+{ "create" : { "_index" : "movies", "_id" : "710843" } }
+{"id": "710843", "title": "The Lord of the Rings", "year": 1950, "genre": ["Crime", "Thriller", "IMAX", "Horror"]}
+{ "create" : { "_index" : "movies", "_id" : "154441" } }
+{"id": "154441", "title": "Pulp Fiction", "year": 1987, "genre": ["Thriller", "Adventure", "Romance", "Crime", "Horror"]}
+{ "create" : { "_index" : "movies", "_id" : "14746" } }
+{"id": "14746", "title": "Pulp Fiction", "year": 1969, "genre": ["Adventure", "Drama"]}
+{ "create" : { "_index" : "movies", "_id" : "191522" } }
+{"id": "191522", "title": "The Shawshank Redemption", "year": 1960, "genre": ["Adventure", "Drama", "Crime", "Romance"]}
+{ "create" : { "_index" : "movies", "_id" : "21515" } }
+{"id": "21515", "title": "Avatar", "year": 2004, "genre": ["Romance", "Horror", "Drama", "Thriller", "Adventure"]}
+{ "create" : { "_index" : "movies", "_id" : "406814" } }
+{"id": "406814", "title": "Avatar", "year": 1982, "genre": ["Action", "Horror"]}
+{ "create" : { "_index" : "movies", "_id" : "82288" } }
+{"id": "82288", "title": "Jurassic Park", "year": 1979, "genre": ["Drama", "Sci-Fi", "Action"]}
+{ "create" : { "_index" : "movies", "_id" : "563959" } }
+{"id": "563959", "title": "Plan 9 from Outer Space", "year": 1994, "genre": ["Sci-Fi", "Drama", "Thriller", "Comedy", "Crime"]}
+{ "create" : { "_index" : "movies", "_id" : "998909" } }
+{"id": "998909", "title": "The Godfather", "year": 2005, "genre": ["Sci-Fi", "IMAX", "Romance"]}
+{ "create" : { "_index" : "movies", "_id" : "162589" } }
+{"id": "162589", "title": "Jurassic Park", "year": 1964, "genre": ["Horror", "Fantasy", "Crime", "Sci-Fi"]}
+{ "create" : { "_index" : "movies", "_id" : "475803" } }
+{"id": "475803", "title": "The Dark Knight", "year": 2018, "genre": ["Crime", "Thriller", "Comedy", "Adventure"]}
+{ "create" : { "_index" : "movies", "_id" : "959751" } }
+{"id": "959751", "title": "Star Trek Beyond", "year": 1963, "genre": ["Crime", "Fantasy", "Action", "Adventure", "Horror"]}
+{ "create" : { "_index" : "movies", "_id" : "65189" } }
+{"id": "65189", "title": "Plan 9 from Outer Space", "year": 2000, "genre": ["Horror", "Action", "Romance", "IMAX"]}
+{ "create" : { "_index" : "movies", "_id" : "185882" } }
+{"id": "185882", "title": "The Matrix", "year": 1999, "genre": ["Action", "Fantasy"]}
+{ "create" : { "_index" : "movies", "_id" : "492438" } }
+{"id": "492438", "title": "Plan 9 from Outer Space", "year": 2002, "genre": ["Comedy", "Drama", "Horror"]}
+{ "create" : { "_index" : "movies", "_id" : "720798" } }
+{"id": "720798", "title": "Back to the Future", "year": 1963, "genre": ["Horror", "Thriller", "Adventure", "Crime", "IMAX"]}
+{ "create" : { "_index" : "movies", "_id" : "607473" } }
+{"id": "607473", "title": "The Lord of the Rings", "year": 1982, "genre": ["Romance", "Action", "Adventure"]}
+{ "create" : { "_index" : "movies", "_id" : "502834" } }
+{"id": "502834", "title": "The Matrix", "year": 2014, "genre": ["IMAX", "Romance", "Action"]}
+{ "create" : { "_index" : "movies", "_id" : "624010" } }
+{"id": "624010", "title": "Jurassic Park", "year": 1972, "genre": ["Action", "Horror"]}
+{ "create" : { "_index" : "movies", "_id" : "48363" } }
+{"id": "48363", "title": "Interstellar", "year": 2002, "genre": ["Drama", "Romance"]}
+{ "create" : { "_index" : "movies", "_id" : "226241" } }
+{"id": "226241", "title": "The Matrix", "year": 1964, "genre": ["Thriller", "IMAX", "Fantasy"]}
+{ "create" : { "_index" : "movies", "_id" : "925715" } }
+{"id": "925715", "title": "Inception", "year": 1993, "genre": ["Thriller", "Sci-Fi", "Horror", "IMAX"]}
+{ "create" : { "_index" : "movies", "_id" : "84290" } }
+{"id": "84290", "title": "Inception", "year": 1959, "genre": ["Sci-Fi", "Crime"]}
+{ "create" : { "_index" : "movies", "_id" : "501984" } }
+{"id": "501984", "title": "Star Wars: Episode VII - The Force Awakens", "year": 1966, "genre": ["Thriller", "Drama"]}
+{ "create" : { "_index" : "movies", "_id" : "332305" } }
+{"id": "332305", "title": "Avatar", "year": 2023, "genre": ["Sci-Fi", "Action", "Fantasy", "Romance"]}
+{ "create" : { "_index" : "movies", "_id" : "353102" } }
+{"id": "353102", "title": "The Shawshank Redemption", "year": 2014, "genre": ["Romance", "Thriller", "IMAX", "Drama"]}
+{ "create" : { "_index" : "movies", "_id" : "249322" } }
+{"id": "249322", "title": "Jurassic Park", "year": 2016, "genre": ["Crime", "Thriller"]}
+{ "create" : { "_index" : "movies", "_id" : "369015" } }
+{"id": "369015", "title": "Inception", "year": 1967, "genre": ["Thriller", "Action", "Horror"]}
+{ "create" : { "_index" : "movies", "_id" : "977577" } }
+{"id": "977577", "title": "Avatar", "year": 2007, "genre": ["Action", "IMAX", "Romance"]}
+{ "create" : { "_index" : "movies", "_id" : "567934" } }
+{"id": "567934", "title": "Back to the Future", "year": 1990, "genre": ["Drama", "Horror", "Thriller", "Adventure"]}
+{ "create" : { "_index" : "movies", "_id" : "525999" } }
+{"id": "525999", "title": "Star Trek Beyond", "year": 1974, "genre": ["Horror", "Romance"]}
+{ "create" : { "_index" : "movies", "_id" : "461646" } }
+{"id": "461646", "title": "Plan 9 from Outer Space", "year": 1979, "genre": ["Romance", "Comedy"]}
+{ "create" : { "_index" : "movies", "_id" : "309607" } }
+{"id": "309607", "title": "Avengers: Endgame", "year": 1999, "genre": ["Horror", "Crime", "IMAX", "Fantasy"]}
+{ "create" : { "_index" : "movies", "_id" : "670546" } }
+{"id": "670546", "title": "Jurassic Park", "year": 1950, "genre": ["Crime", "Comedy", "Fantasy", "Adventure", "IMAX"]}
+{ "create" : { "_index" : "movies", "_id" : "960475" } }
+{"id": "960475", "title": "Jurassic Park", "year": 1972, "genre": ["Comedy", "Drama", "Thriller"]}
+{ "create" : { "_index" : "movies", "_id" : "930002" } }
+{"id": "930002", "title": "The Matrix", "year": 2020, "genre": ["Thriller", "Fantasy", "Drama"]}
+{ "create" : { "_index" : "movies", "_id" : "555115" } }
+{"id": "555115", "title": "Star Wars: Episode VII - The Force Awakens", "year": 2017, "genre": ["Drama", "Comedy", "Action", "IMAX"]}
+{ "create" : { "_index" : "movies", "_id" : "656668" } }
+{"id": "656668", "title": "The Godfather", "year": 1990, "genre": ["Action", "Thriller", "Crime", "Drama", "Adventure"]}
+{ "create" : { "_index" : "movies", "_id" : "322190" } }
+{"id": "322190", "title": "Interstellar", "year": 1997, "genre": ["Fantasy", "Horror", "Crime", "Adventure"]}
+{ "create" : { "_index" : "movies", "_id" : "372681" } }
+{"id": "372681", "title": "The Shawshank Redemption", "year": 2005, "genre": ["Sci-Fi", "Action", "Drama"]}
+{ "create" : { "_index" : "movies", "_id" : "838611" } }
+{"id": "838611", "title": "Jurassic Park", "year": 2015, "genre": ["Sci-Fi", "Thriller", "Horror", "Comedy", "IMAX"]}
+{ "create" : { "_index" : "movies", "_id" : "142985" } }
+{"id": "142985", "title": "Star Wars: Episode VII - The Force Awakens", "year": 1978, "genre": ["IMAX", "Romance", "Action", "Thriller", "Crime"]}
+{ "create" : { "_index" : "movies", "_id" : "250292" } }
+{"id": "250292", "title": "Avengers: Endgame", "year": 1956, "genre": ["IMAX", "Crime", "Romance"]}
+{ "create" : { "_index" : "movies", "_id" : "947112" } }
+{"id": "947112", "title": "Avatar", "year": 1975, "genre": ["Comedy", "Sci-Fi", "Horror"]}
+{ "create" : { "_index" : "movies", "_id" : "376818" } }
+{"id": "376818", "title": "Pulp Fiction", "year": 1972, "genre": ["Adventure", "IMAX", "Comedy", "Romance", "Crime"]}
+{ "create" : { "_index" : "movies", "_id" : "887653" } }
+{"id": "887653", "title": "Star Wars: Episode VII - The Force Awakens", "year": 1991, "genre": ["Comedy", "Drama"]}
+{ "create" : { "_index" : "movies", "_id" : "38030" } }
+{"id": "38030", "title": "Inception", "year": 1956, "genre": ["Sci-Fi", "Romance"]}
+{ "create" : { "_index" : "movies", "_id" : "530742" } }
+{"id": "530742", "title": "Plan 9 from Outer Space", "year": 2001, "genre": ["Fantasy", "Thriller", "Romance", "Drama", "Sci-Fi"]}
+{ "create" : { "_index" : "movies", "_id" : "851111" } }
+{"id": "851111", "title": "Star Wars: Episode VII - The Force Awakens", "year": 1970, "genre": ["Fantasy", "IMAX", "Adventure", "Crime", "Drama"]}
+{ "create" : { "_index" : "movies", "_id" : "197909" } }
+{"id": "197909", "title": "The Godfather", "year": 1991, "genre": ["Horror", "Sci-Fi", "Thriller", "Fantasy"]}
+{ "create" : { "_index" : "movies", "_id" : "222200" } }
+{"id": "222200", "title": "The Shawshank Redemption", "year": 1990, "genre": ["Sci-Fi", "Comedy", "Drama", "Adventure"]}
+{ "create" : { "_index" : "movies", "_id" : "541542" } }
+{"id": "541542", "title": "Avengers: Endgame", "year": 1960, "genre": ["Sci-Fi", "Adventure", "Thriller", "IMAX", "Action"]}
+{ "create" : { "_index" : "movies", "_id" : "24203" } }
+{"id": "24203", "title": "The Dark Knight", "year": 1982, "genre": ["IMAX", "Adventure", "Crime", "Horror"]}
+{ "create" : { "_index" : "movies", "_id" : "250471" } }
+{"id": "250471", "title": "The Godfather", "year": 1962, "genre": ["Thriller", "Crime"]}
+{ "create" : { "_index" : "movies", "_id" : "597704" } }
+{"id": "597704", "title": "Avengers: Endgame", "year": 1996, "genre": ["Action", "Adventure", "Crime", "Drama"]}
+{ "create" : { "_index" : "movies", "_id" : "618086" } }
+{"id": "618086", "title": "The Matrix", "year": 1951, "genre": ["Adventure", "Crime", "IMAX", "Thriller"]}
+{ "create" : { "_index" : "movies", "_id" : "232643" } }
+{"id": "232643", "title": "The Godfather", "year": 1990, "genre": ["IMAX", "Adventure", "Crime", "Sci-Fi"]}
+{ "create" : { "_index" : "movies", "_id" : "45885" } }
+{"id": "45885", "title": "The Dark Knight", "year": 1975, "genre": ["Sci-Fi", "Romance", "Action", "Crime"]}
+{ "create" : { "_index" : "movies", "_id" : "398217" } }
+{"id": "398217", "title": "The Shawshank Redemption", "year": 2008, "genre": ["Romance", "Action"]}
+{ "create" : { "_index" : "movies", "_id" : "846408" } }
+{"id": "846408", "title": "The Lord of the Rings", "year": 1974, "genre": ["Romance", "Adventure", "Thriller", "Drama", "Comedy"]}
+{ "create" : { "_index" : "movies", "_id" : "182917" } }
+{"id": "182917", "title": "Pulp Fiction", "year": 1997, "genre": ["Fantasy", "Drama"]}
+{ "create" : { "_index" : "movies", "_id" : "159946" } }
+{"id": "159946", "title": "Plan 9 from Outer Space", "year": 1981, "genre": ["Crime", "IMAX", "Sci-Fi", "Horror"]}
+{ "create" : { "_index" : "movies", "_id" : "593502" } }
+{"id": "593502", "title": "The Dark Knight", "year": 1981, "genre": ["IMAX", "Romance", "Drama"]}
+{ "create" : { "_index" : "movies", "_id" : "813763" } }
+{"id": "813763", "title": "Star Wars: Episode VII - The Force Awakens", "year": 1960, "genre": ["Thriller", "Romance"]}
+{ "create" : { "_index" : "movies", "_id" : "801323" } }
+{"id": "801323", "title": "The Godfather", "year": 1960, "genre": ["Action", "Drama", "Romance", "Thriller"]}
+{ "create" : { "_index" : "movies", "_id" : "3981" } }
+{"id": "3981", "title": "Avatar", "year": 1955, "genre": ["Drama", "Crime"]}
+{ "create" : { "_index" : "movies", "_id" : "299440" } }
+{"id": "299440", "title": "The Lord of the Rings", "year": 1978, "genre": ["Fantasy", "Drama", "Adventure", "IMAX"]}
+{ "create" : { "_index" : "movies", "_id" : "529225" } }
+{"id": "529225", "title": "The Lord of the Rings", "year": 2020, "genre": ["Fantasy", "Adventure", "Romance", "Thriller", "Horror"]}
+{ "create" : { "_index" : "movies", "_id" : "789288" } }
+{"id": "789288", "title": "Inception", "year": 2010, "genre": ["IMAX", "Drama"]}
+{ "create" : { "_index" : "movies", "_id" : "838002" } }
+{"id": "838002", "title": "The Matrix", "year": 1994, "genre": ["Comedy", "Sci-Fi", "IMAX", "Drama", "Action"]}
+{ "create" : { "_index" : "movies", "_id" : "839695" } }
+{"id": "839695", "title": "Avengers: Endgame", "year": 1997, "genre": ["Crime", "Adventure"]}
+{ "create" : { "_index" : "movies", "_id" : "985552" } }
+{"id": "985552", "title": "Jurassic Park", "year": 1968, "genre": ["Adventure", "Fantasy", "Sci-Fi", "Action", "Drama"]}
+{ "create" : { "_index" : "movies", "_id" : "748629" } }
+{"id": "748629", "title": "Jurassic Park", "year": 2024, "genre": ["Action", "Adventure", "Crime", "Sci-Fi"]}
+{ "create" : { "_index" : "movies", "_id" : "275504" } }
+{"id": "275504", "title": "Interstellar", "year": 2008, "genre": ["Sci-Fi", "Adventure", "Comedy"]}
+{ "create" : { "_index" : "movies", "_id" : "162784" } }
+{"id": "162784", "title": "The Matrix", "year": 1972, "genre": ["Action", "Adventure", "Romance", "Crime", "Sci-Fi"]}
+{ "create" : { "_index" : "movies", "_id" : "207844" } }
+{"id": "207844", "title": "Avengers: Endgame", "year": 1969, "genre": ["IMAX", "Crime"]}
+{ "create" : { "_index" : "movies", "_id" : "508879" } }
+{"id": "508879", "title": "The Godfather", "year": 1978, "genre": ["Crime", "Adventure", "Romance"]}
+{ "create" : { "_index" : "movies", "_id" : "745429" } }
+{"id": "745429", "title": "The Lord of the Rings", "year": 1982, "genre": ["Adventure", "Action", "Comedy", "Fantasy", "IMAX"]}
+{ "create" : { "_index" : "movies", "_id" : "98135" } }
+{"id": "98135", "title": "Avatar", "year": 2004, "genre": ["Drama", "Fantasy"]}
+{ "create" : { "_index" : "movies", "_id" : "603071" } }
+{"id": "603071", "title": "Avengers: Endgame", "year": 1957, "genre": ["Comedy", "IMAX", "Action", "Fantasy", "Sci-Fi"]}
+{ "create" : { "_index" : "movies", "_id" : "984888" } }
+{"id": "984888", "title": "Star Trek Beyond", "year": 1982, "genre": ["IMAX", "Fantasy", "Sci-Fi"]}
+{ "create" : { "_index" : "movies", "_id" : "216668" } }
+{"id": "216668", "title": "Avengers: Endgame", "year": 1990, "genre": ["Horror", "Crime", "Adventure", "Romance"]}
+{ "create" : { "_index" : "movies", "_id" : "620851" } }
+{"id": "620851", "title": "The Lord of the Rings", "year": 2014, "genre": ["Crime", "Drama", "Comedy", "Adventure"]}
+{ "create" : { "_index" : "movies", "_id" : "250651" } }
+{"id": "250651", "title": "The Lord of the Rings", "year": 2013, "genre": ["Crime", "Sci-Fi"]}
+{ "create" : { "_index" : "movies", "_id" : "830210" } }
+{"id": "830210", "title": "Star Wars: Episode VII - The Force Awakens", "year": 1971, "genre": ["Romance", "Horror", "Thriller"]}
+{ "create" : { "_index" : "movies", "_id" : "398238" } }
+{"id": "398238", "title": "The Matrix", "year": 2015, "genre": ["Crime", "Comedy"]}
+{ "create" : { "_index" : "movies", "_id" : "871003" } }
+{"id": "871003", "title": "Back to the Future", "year": 1961, "genre": ["Drama", "Comedy"]}
+{ "create" : { "_index" : "movies", "_id" : "552135" } }
+{"id": "552135", "title": "Plan 9 from Outer Space", "year": 1960, "genre": ["Action", "Crime"]}
+{ "create" : { "_index" : "movies", "_id" : "73841" } }
+{"id": "73841", "title": "Interstellar", "year": 2014, "genre": ["Sci-Fi", "IMAX"]}
+{ "create" : { "_index" : "movies", "_id" : "904001" } }
+{"id": "904001", "title": "Star Trek Beyond", "year": 1951, "genre": ["Drama", "Horror", "Thriller", "Action", "IMAX"]}
+{ "create" : { "_index" : "movies", "_id" : "869934" } }
+{"id": "869934", "title": "Pulp Fiction", "year": 2023, "genre": ["Horror", "IMAX", "Romance", "Comedy"]}
+{ "create" : { "_index" : "movies", "_id" : "353324" } }
+{"id": "353324", "title": "Star Wars: Episode VII - The Force Awakens", "year": 2005, "genre": ["IMAX", "Thriller", "Romance"]}
+{ "create" : { "_index" : "movies", "_id" : "504811" } }
+{"id": "504811", "title": "Avatar", "year": 2023, "genre": ["Adventure", "IMAX", "Romance", "Action"]}
+{ "create" : { "_index" : "movies", "_id" : "496649" } }
+{"id": "496649", "title": "The Godfather", "year": 1984, "genre": ["Adventure", "Thriller", "Action"]}
+{ "create" : { "_index" : "movies", "_id" : "952297" } }
+{"id": "952297", "title": "Avengers: Endgame", "year": 1977, "genre": ["Comedy", "Fantasy", "Horror", "Crime"]}
+{ "create" : { "_index" : "movies", "_id" : "858707" } }
+{"id": "858707", "title": "Plan 9 from Outer Space", "year": 1961, "genre": ["Action", "IMAX", "Romance", "Comedy", "Adventure"]}
+{ "create" : { "_index" : "movies", "_id" : "818211" } }
+{"id": "818211", "title": "The Shawshank Redemption", "year": 1974, "genre": ["IMAX", "Sci-Fi", "Action", "Comedy"]}
+{ "create" : { "_index" : "movies", "_id" : "578737" } }
+{"id": "578737", "title": "The Matrix", "year": 2017, "genre": ["Drama", "Thriller", "Romance", "Comedy"]}
+{ "create" : { "_index" : "movies", "_id" : "323067" } }
+{"id": "323067", "title": "Back to the Future", "year": 2006, "genre": ["Fantasy", "Action", "Thriller", "Comedy"]}
+{ "create" : { "_index" : "movies", "_id" : "151621" } }
+{"id": "151621", "title": "Interstellar", "year": 1959, "genre": ["Crime", "Comedy", "IMAX", "Action"]}
+{ "create" : { "_index" : "movies", "_id" : "925274" } }
+{"id": "925274", "title": "Avengers: Endgame", "year": 1975, "genre": ["Sci-Fi", "Adventure", "Drama"]}
+{ "create" : { "_index" : "movies", "_id" : "352437" } }
+{"id": "352437", "title": "Back to the Future", "year": 2020, "genre": ["Horror", "Romance", "Thriller"]}
+{ "create" : { "_index" : "movies", "_id" : "930061" } }
+{"id": "930061", "title": "Back to the Future", "year": 1957, "genre": ["Horror", "Comedy"]}
+{ "create" : { "_index" : "movies", "_id" : "289694" } }
+{"id": "289694", "title": "Avengers: Endgame", "year": 2018, "genre": ["IMAX", "Comedy", "Sci-Fi", "Adventure"]}
+{ "create" : { "_index" : "movies", "_id" : "105654" } }
+{"id": "105654", "title": "The Lord of the Rings", "year": 2024, "genre": ["Thriller", "IMAX", "Drama"]}
+{ "create" : { "_index" : "movies", "_id" : "5189" } }
+{"id": "5189", "title": "The Lord of the Rings", "year": 1961, "genre": ["Romance", "Drama"]}
+{ "create" : { "_index" : "movies", "_id" : "748462" } }
+{"id": "748462", "title": "Interstellar", "year": 1991, "genre": ["Crime", "Drama", "Thriller", "Sci-Fi", "IMAX"]}
+{ "create" : { "_index" : "movies", "_id" : "804884" } }
+{"id": "804884", "title": "Inception", "year": 2016, "genre": ["Comedy", "Horror", "Sci-Fi"]}
+{ "create" : { "_index" : "movies", "_id" : "627634" } }
+{"id": "627634", "title": "Jurassic Park", "year": 2003, "genre": ["Crime", "Comedy", "Thriller", "Sci-Fi"]}
+{ "create" : { "_index" : "movies", "_id" : "969409" } }
+{"id": "969409", "title": "Avengers: Endgame", "year": 1979, "genre": ["Crime", "Fantasy", "Sci-Fi"]}
+{ "create" : { "_index" : "movies", "_id" : "345521" } }
+{"id": "345521", "title": "The Shawshank Redemption", "year": 1952, "genre": ["Crime", "Comedy", "IMAX", "Romance", "Action"]}
+{ "create" : { "_index" : "movies", "_id" : "748912" } }
+{"id": "748912", "title": "Avengers: Endgame", "year": 1982, "genre": ["Horror", "Sci-Fi"]}
+{ "create" : { "_index" : "movies", "_id" : "112832" } }
+{"id": "112832", "title": "Avatar", "year": 2015, "genre": ["Horror", "Fantasy", "Sci-Fi"]}
+{ "create" : { "_index" : "movies", "_id" : "173462" } }
+{"id": "173462", "title": "The Matrix", "year": 1988, "genre": ["Horror", "Sci-Fi"]}
+{ "create" : { "_index" : "movies", "_id" : "33269" } }
+{"id": "33269", "title": "The Matrix", "year": 2022, "genre": ["Crime", "Adventure", "Sci-Fi"]}
+{ "create" : { "_index" : "movies", "_id" : "390473" } }
+{"id": "390473", "title": "The Matrix", "year": 2003, "genre": ["IMAX", "Action", "Adventure", "Comedy", "Romance"]}
+{ "create" : { "_index" : "movies", "_id" : "476076" } }
+{"id": "476076", "title": "Jurassic Park", "year": 1995, "genre": ["Adventure", "Thriller", "Action", "Horror", "Comedy"]}
+{ "create" : { "_index" : "movies", "_id" : "252400" } }
+{"id": "252400", "title": "Back to the Future", "year": 1983, "genre": ["Action", "Sci-Fi"]}
+{ "create" : { "_index" : "movies", "_id" : "9284" } }
+{"id": "9284", "title": "The Matrix", "year": 1995, "genre": ["Romance", "Fantasy"]}
+{ "create" : { "_index" : "movies", "_id" : "259989" } }
+{"id": "259989", "title": "Back to the Future", "year": 1953, "genre": ["Comedy", "Romance", "Adventure"]}
+{ "create" : { "_index" : "movies", "_id" : "366073" } }
+{"id": "366073", "title": "Jurassic Park", "year": 2004, "genre": ["Romance", "Crime"]}
+{ "create" : { "_index" : "movies", "_id" : "787266" } }
+{"id": "787266", "title": "Star Wars: Episode VII - The Force Awakens", "year": 2016, "genre": ["Horror", "Sci-Fi", "Action"]}
+{ "create" : { "_index" : "movies", "_id" : "910588" } }
+{"id": "910588", "title": "Pulp Fiction", "year": 1998, "genre": ["Fantasy", "Sci-Fi", "Crime", "IMAX"]}
+{ "create" : { "_index" : "movies", "_id" : "452744" } }
+{"id": "452744", "title": "Star Trek Beyond", "year": 1961, "genre": ["Horror", "Romance", "Comedy"]}
+{ "create" : { "_index" : "movies", "_id" : "97865" } }
+{"id": "97865", "title": "Star Wars: Episode VII - The Force Awakens", "year": 1974, "genre": ["Fantasy", "IMAX", "Adventure", "Thriller"]}
+{ "create" : { "_index" : "movies", "_id" : "308224" } }
+{"id": "308224", "title": "Jurassic Park", "year": 1981, "genre": ["Crime", "Horror", "Action"]}
+{ "create" : { "_index" : "movies", "_id" : "957882" } }
+{"id": "957882", "title": "Interstellar", "year": 1991, "genre": ["Action", "Drama", "IMAX", "Horror", "Comedy"]}
+{ "create" : { "_index" : "movies", "_id" : "690658" } }
+{"id": "690658", "title": "The Godfather", "year": 2007, "genre": ["Thriller", "Sci-Fi", "Drama", "Comedy", "Action"]}
+{ "create" : { "_index" : "movies", "_id" : "281747" } }
+{"id": "281747", "title": "The Shawshank Redemption", "year": 2015, "genre": ["Thriller", "Sci-Fi", "Fantasy", "IMAX"]}
